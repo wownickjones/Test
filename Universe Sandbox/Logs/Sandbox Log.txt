@@ -1,0 +1,561 @@
+     0 | 2012-03-31 20:29:38.229 | 3D Mode Colored Glasses
+     0 | 2012-03-31 20:29:38.366 | --------------------------------------------
+     0 | 2012-03-31 20:29:38.366 | Universe Sandbox Log File
+     0 | 2012-03-31 20:29:38.366 | --------------------------------------------
+     0 | 2012-03-31 20:29:38.366 | Version               : 2.1.5 Steam
+     0 | 2012-03-31 20:29:38.366 | StartupPath           : c:\program files (x86)\steam\steamapps\common\universe sandbox
+     0 | 2012-03-31 20:29:38.366 | LocalUserAppDataPath  : C:\Users\NicKJones\AppData\Local\Universe Sandbox\
+     0 | 2012-03-31 20:29:38.366 | OS version            : Windows 7 | Microsoft Windows NT 6.1.7601 Service Pack 1
+     0 | 2012-03-31 20:29:38.367 | Highest .NET version  : 4.0 (Final)
+     0 | 2012-03-31 20:29:38.367 | All .NET versions     : 2.0.50727.5420 | 3.0.30729.5420 | 3.5.30729.5420 | 4.0 (Final) | 
+     0 | 2012-03-31 20:29:38.367 | Culture               : en-US | English (United States)
+     0 | 2012-03-31 20:29:38.368 | -- Device Info ----------------
+     0 | 2012-03-31 20:29:38.378 | Primary Screen        : 1920 x 1080 | 32 bit | 1920 x 1080
+     0 | 2012-03-31 20:29:38.408 | Adapter | Driver      : NVIDIA GeForce GTS 450 | nvd3dum.dll
+     0 | 2012-03-31 20:29:38.408 | Max TextureSize       : w 8192 | h 8192
+     0 | 2012-03-31 20:29:38.408 | Is Vertex/Pixel       : True | True
+     0 | 2012-03-31 20:29:38.408 | Max Vertex/Pixel      :    3 |    3
+     0 | 2012-03-31 20:29:38.409 | AntiAlias : True | Bump : True | DoubleSS : True | Reflection : True | StencilS : True
+     0 | 2012-03-31 20:29:38.409 | -------------------------------
+     0 | 2012-03-31 20:29:38.929 | Steam Enabled
+     0 | 2012-03-31 20:29:38.933 | -- Settings -------------------
+     0 | 2012-03-31 20:29:38.933 | RunCount        : 5
+     0 | 2012-03-31 20:29:38.933 | RunTime         : 10.6 minutes
+     0 | 2012-03-31 20:29:38.933 | RunTimeDemo     : 0.0 seconds
+     0 | 2012-03-31 20:29:38.933 | LastVersion     : 2.1.5
+     0 | 2012-03-31 20:29:38.933 | CommentCount    : 0
+     0 | 2012-03-31 20:29:38.933 | CheckCount      : 0 0
+     0 | 2012-03-31 20:29:38.933 | CommentAskCount : 1 0
+     0 | 2012-03-31 20:29:38.933 | CrashCount      : 0
+     0 | 2012-03-31 20:29:38.933 | EmailAddress    : 
+     0 | 2012-03-31 20:29:38.933 | Free Version   :
+     0 | 2012-03-31 20:29:38.933 | -------------------------------
+     0 | 2012-03-31 20:29:38.967 | Particle Multi      : 1
+     0 | 2012-03-31 20:29:38.967 | 3D Inter Dist       : 1.5
+     0 | 2012-03-31 20:29:38.967 | -------------------------------
+     0 | 2012-03-31 20:29:39.003 | SetupTrueVision Complete
+     0 | 2012-03-31 20:29:39.004 | Setup TVInternalObjects Complete
+     0 | 2012-03-31 20:29:39.006 | MainForm.Handle = 3343626
+     0 | 2012-03-31 20:29:39.244 | Init3DWindowed Complete
+     0 | 2012-03-31 20:29:39.281 | App: Main Resize Start
+     0 | 2012-03-31 20:29:39.291 | App: Main Resize End
+     0 | 2012-03-31 20:29:39.291 | -- Engine Properties ----------
+     0 | 2012-03-31 20:29:39.291 | Window Size             : 1280 x 720
+     0 | 2012-03-31 20:29:39.291 | Available Texture Memory: -40.9 M bytes
+     0 | 2012-03-31 20:29:39.291 | Used Texture Memory     : 1.00 MB
+     0 | 2012-03-31 20:29:39.291 | -------------------------------
+     0 | 2012-03-31 20:29:39.411 | MainRS Create Render Surface Complete
+     0 | 2012-03-31 20:29:39.454 | Wiimote not found
+     0 | 2012-03-31 20:29:41.027 | App: Main Resize Start
+     0 | 2012-03-31 20:29:41.035 | App: Main Resize End
+     0 | 2012-03-31 20:29:41.851 | Shader Working
+     0 | 2012-03-31 20:29:41.922 | Creating Glow RenderSurface
+     0 | 2012-03-31 20:29:42.459 | 3D Mode Colored Glasses
+     0 | 2012-03-31 20:29:42.459 | App: Main Resize Start
+     0 | 2012-03-31 20:29:42.466 | App: Main Resize End
+     0 | 2012-03-31 20:29:43.674 | 4.26 delay before CheckMainRS Create Render Surface - Didn't Make One
+     0 | 2012-03-31 20:29:43.675 | Engine.Mode = ozEngine.EngineMode.Main
+     0 | 2012-03-31 20:29:43.718 | SaveLocalSettings Complete
+     0 | 2012-03-31 20:29:43.774 | 
+     0 | 2012-03-31 20:29:43.774 | -- New System -----------------
+     0 | 2012-03-31 20:29:43.774 | Loading System: NEW
+     0 | 2012-03-31 20:29:43.774 | Engine.Scale | 0.000000011
+     0 | 2012-03-31 20:29:43.808 | Beginning Main Loop
+     0 | 2012-03-31 20:29:43.808 | Desk Update
+     0 | 2012-03-31 20:29:43.838 | Startup Time:   |  5.72
+    52 | 2012-03-31 20:29:44.310 | LoadedWebpage default.htm
+    52 | 2012-03-31 20:29:44.311 | UpdateValuesPostWebCoreUpdate *UsedByHelp BeforeFirstRender
+    52 | 2012-03-31 20:29:44.311 | UpdateValuesPostWebCoreUpdate After
+    52 | 2012-03-31 20:29:44.311 | UpdateValuesPostWebCoreUpdate Pre Render
+    52 | 2012-03-31 20:29:44.347 | UpdateValuesPostWebCoreUpdate Post Render
+    52 | 2012-03-31 20:29:44.347 | UpdateValuesPostWebCoreUpdate Pre Lock Texture
+    52 | 2012-03-31 20:29:44.348 | UpdateValuesPostWebCoreUpdate Post Lock Texture
+    52 | 2012-03-31 20:29:44.348 | UpdateValuesPostWebCoreUpdate Pre CheckScollBars
+    52 | 2012-03-31 20:29:44.353 | UpdateValuesPostWebCoreUpdate Post CheckScollBars
+    52 | 2012-03-31 20:29:44.354 | Streaming OKed in CheckToAllowStreaming
+    52 | 2012-03-31 20:29:44.354 | UpdateValuesPostWebCoreUpdate DONE
+    65 | 2012-03-31 20:29:44.380 | CurrentCulture from Load System Data | English (United States)
+    65 | 2012-03-31 20:29:44.380 | CurrentCulture from Load System Data - Post Fix | Invariant Language (Invariant Country)
+    73 | 2012-03-31 20:29:44.398 | Loaded Texture: StarGlow
+    81 | 2012-03-31 20:29:44.415 | Loaded Texture: ImpactMark
+    92 | 2012-03-31 20:29:44.438 | Loaded Texture: SaturnRingColors
+    94 | 2012-03-31 20:29:44.456 | Loaded Texture: GradientRainbow
+   103 | 2012-03-31 20:29:44.493 | Loaded Texture: GradientAwesome
+   112 | 2012-03-31 20:29:44.520 | Loaded Texture: InterlacedCheck
+   114 | 2012-03-31 20:29:44.524 | objdata time 0.1291461
+   114 | 2012-03-31 20:29:44.524 | Read 50 Objects from c:\program files (x86)\steam\steamapps\common\universe sandbox\data\EarthObjects.xml
+   114 | 2012-03-31 20:29:44.524 | Loaded Data File: EarthObjects.xml
+   128 | 2012-03-31 20:29:44.571 | Loaded Texture: InterlacedRow
+   149 | 2012-03-31 20:29:44.623 | Loaded Texture: InterlacedColumn
+   171 | 2012-03-31 20:29:44.689 | Loaded Texture: star.dds
+   212 | 2012-03-31 20:29:44.944 | Loaded Texture: MoonDiffuse.dds
+   216 | 2012-03-31 20:29:44.977 | objdata time 0.4524004
+   216 | 2012-03-31 20:29:44.977 | Read 3752 Objects from c:\program files (x86)\steam\steamapps\common\universe sandbox\data\LocalObjects.xml
+   216 | 2012-03-31 20:29:44.977 | Loaded Data File: LocalObjects.xml
+   240 | 2012-03-31 20:29:45.206 | Loaded Texture: MoonNormal.dds
+   247 | 2012-03-31 20:29:45.225 | Loaded Texture: mercury.dds
+   247 | 2012-03-31 20:29:45.236 | Loaded Texture: venus.dds
+   254 | 2012-03-31 20:29:45.268 | Loaded Texture: earth.dds
+   305 | 2012-03-31 20:29:45.764 | objdata time 0.7715396
+   305 | 2012-03-31 20:29:45.764 | Read 2369 Objects from c:\program files (x86)\steam\steamapps\common\universe sandbox\data\Stars.xml
+   305 | 2012-03-31 20:29:45.764 | Loaded Data File: Stars.xml
+   311 | 2012-03-31 20:29:45.813 | objdata time 0.04845202
+   311 | 2012-03-31 20:29:45.813 | Read 255 Objects from c:\program files (x86)\steam\steamapps\common\universe sandbox\data\Galaxies.xml
+   311 | 2012-03-31 20:29:45.813 | Loaded Data File: Galaxies.xml
+   414 | 2012-03-31 20:29:46.041 | Loaded Texture: mars.dds
+   691 | 2012-03-31 20:29:47.089 | Loaded Texture: jupiter.dds
+   846 | 2012-03-31 20:29:47.788 | Loaded Texture: saturn.dds
+   846 | 2012-03-31 20:29:47.796 | Loaded Texture: uranus.dds
+   849 | 2012-03-31 20:29:47.824 | Loaded Texture: neptune.dds
+   851 | 2012-03-31 20:29:47.839 | Loaded Texture: jupiter-europa.dds
+   852 | 2012-03-31 20:29:47.845 | Loaded Texture: jupiter-ganymede.dds
+   852 | 2012-03-31 20:29:47.862 | Loaded Texture: jupiter-io.dds
+   854 | 2012-03-31 20:29:47.879 | Loaded Texture: saturn-mimas.dds
+   857 | 2012-03-31 20:29:47.916 | Loaded Texture: jupiter-callisto.dds
+   857 | 2012-03-31 20:29:47.940 | Loaded Texture: saturn-titan.dds
+   857 | 2012-03-31 20:29:47.953 | Loaded Texture: saturn-iapetus.dds
+   857 | 2012-03-31 20:29:47.966 | Loaded Texture: uranus-miranda.dds
+   861 | 2012-03-31 20:29:48.015 | Loaded Texture: dice.dds
+   868 | 2012-03-31 20:29:48.039 | Loaded Texture: baseball.dds
+   872 | 2012-03-31 20:29:48.049 | Loaded Texture: football.dds
+   880 | 2012-03-31 20:29:48.065 | Loaded Texture: bowlingball.dds
+   912 | 2012-03-31 20:29:48.178 | Loaded Texture: poolball-cue.jpg
+   921 | 2012-03-31 20:29:48.195 | Loaded Texture: tennisball.dds
+   927 | 2012-03-31 20:29:48.207 | Loaded Texture: golfball.dds
+   932 | 2012-03-31 20:29:48.218 | Loaded Texture: galaxyclusterlayer.dds
+   937 | 2012-03-31 20:29:48.229 | Loaded Texture: forestmoon.dds
+   943 | 2012-03-31 20:29:48.241 | Loaded Texture: white.dds
+  1673 | 2012-03-31 20:29:50.339 | NewtonReset: Newton Unloaded
+  1673 | 2012-03-31 20:29:50.341 | SaveLocalSettings Complete
+  1673 | 2012-03-31 20:29:50.343 | -- Stats ----------------------
+  1673 | 2012-03-31 20:29:50.343 | Systems Loaded: 1
+  1673 | 2012-03-31 20:29:50.343 | MouseClicks   : 1 | 0 | 0
+  1673 | 2012-03-31 20:29:50.343 | Current FPS   : 633.6
+  1673 | 2012-03-31 20:29:50.343 | Session Time  : 13.0 seconds
+  1673 | 2012-03-31 20:29:50.343 | System Time   : 13.0 seconds
+  1673 | 2012-03-31 20:29:50.343 | -------------------------------
+  1673 | 2012-03-31 20:29:50.343 | 
+  1673 | 2012-03-31 20:29:50.343 | -- New System -----------------
+  1673 | 2012-03-31 20:29:50.343 | Loading System: Our Solar System.ubox  |  c:\program files (x86)\steam\steamapps\common\universe sandbox\simulations\Our Solar System.ubox
+  1673 | 2012-03-31 20:29:50.473 | Read 1619 Horizon Data from c:\program files (x86)\steam\steamapps\common\universe sandbox\data\Horizon-2008-01-01.xml
+  1673 | 2012-03-31 20:29:50.477 | Created system with 32 bodies.
+  1673 | 2012-03-31 20:29:50.524 | Rotate Sun 7.25
+  1673 | 2012-03-31 20:29:50.545 | Rotate Jupiter 3.12
+  1673 | 2012-03-31 20:29:50.551 | Rotate Saturn 26.73
+  1673 | 2012-03-31 20:29:50.555 | Rotate Neptune 29.56
+  1673 | 2012-03-31 20:29:50.559 | Rotate Uranus 97.86
+  1673 | 2012-03-31 20:29:50.562 | Rotate Earth 23.45
+  1673 | 2012-03-31 20:29:50.565 | Rotate Venus 177.4
+  1673 | 2012-03-31 20:29:50.569 | Rotate Mars 25.19
+  1673 | 2012-03-31 20:29:50.570 | Rotate Mercury 0.1
+  1673 | 2012-03-31 20:29:50.573 | Rotate Pluto 119.6
+  1673 | 2012-03-31 20:29:50.578 | Rotate Ceres 4
+  1673 | 2012-03-31 20:29:50.593 | Rotate Pallas 60
+  1673 | 2012-03-31 20:29:50.607 | Aligned Jupiter
+  1673 | 2012-03-31 20:29:50.607 | Aligned Saturn
+  1673 | 2012-03-31 20:29:50.607 | Aligned Neptune
+  1673 | 2012-03-31 20:29:50.607 | Aligned Uranus
+  1673 | 2012-03-31 20:29:50.755 | Read 1619 Horizon Data from c:\program files (x86)\steam\steamapps\common\universe sandbox\data\Horizon-2008-01-01.xml
+  1673 | 2012-03-31 20:29:50.830 | ozFile Particle Count = 1410
+  1673 | 2012-03-31 20:29:50.921 | Engine.Scale | 0.00000000035
+  1858 | 2012-03-31 20:29:55.595 | UI: Time Step: 1.00 day per step
+  1954 | 2012-03-31 20:29:58.272 | UI: Time Step: 2.00 minutes per step
+  2335 | 2012-03-31 20:30:09.673 |  * Duplicate Lines | 5 x | UI: Time Step: 2.00 minutes per step
+  2335 | 2012-03-31 20:30:09.673 | UI: 1 real sec = 1.19 hours
+  2415 | 2012-03-31 20:30:11.792 | UI: 1 real sec = 1.00 second
+  2855 | 2012-03-31 20:30:23.049 | UI: Time Step: 0.023 seconds per step
+  3070 | 2012-03-31 20:30:28.277 |  * Duplicate Lines | 2 x | UI: Time Step: 0.023 seconds per step
+  3070 | 2012-03-31 20:30:28.277 | UI: Time Step: 1.00 day per step
+  3316 | 2012-03-31 20:30:34.512 | Lost Focus
+  3317 | 2012-03-31 20:30:34.513 | App Lost Focus
+  3418 | 2012-03-31 20:30:37.360 | App Regained Focus
+  3420 | 2012-03-31 20:30:37.418 | Double Click  0.0577007005922496
+  3608 | 2012-03-31 20:30:42.615 | UI: Time Step: 1.00 day per step
+  3637 | 2012-03-31 20:30:43.422 |  * Duplicate Lines | 1 x | UI: Time Step: 1.00 day per step
+  3637 | 2012-03-31 20:30:43.423 | UI: 1 real sec = 37.8 days
+  4277 | 2012-03-31 20:31:01.661 | UI: 1 real sec = 1.00 second
+  4312 | 2012-03-31 20:31:02.638 | UI: Time Step: 0.027 seconds per step
+  4346 | 2012-03-31 20:31:03.579 |  * Duplicate Lines | 1 x | UI: Time Step: 0.027 seconds per step
+  4346 | 2012-03-31 20:31:03.579 | UI: 1 real sec = 0.94 seconds
+  4377 | 2012-03-31 20:31:04.441 | UI: 1 real sec = 10.0 seconds
+  4408 | 2012-03-31 20:31:05.301 | UI: Time Step: 0.26 seconds per step
+  4443 | 2012-03-31 20:31:06.276 |  * Duplicate Lines | 1 x | UI: Time Step: 0.26 seconds per step
+  4443 | 2012-03-31 20:31:06.276 | UI: 1 real sec = 9.86 seconds
+  4475 | 2012-03-31 20:31:07.254 | UI: 1 real sec = 1.67 minutes
+  4541 | 2012-03-31 20:31:09.129 | UI: Time Step: 2.81 seconds per step
+  4655 | 2012-03-31 20:31:12.420 | UI: Time Step: 1.00 hour per step
+  4726 | 2012-03-31 20:31:14.416 |  * Duplicate Lines | 2 x | UI: Time Step: 1.00 hour per step
+  4726 | 2012-03-31 20:31:14.416 | UI: 1 real sec = 1.60 days
+  4964 | 2012-03-31 20:31:21.019 | UI: 1 real sec = 1.00 second
+  7710 | 2012-03-31 20:32:41.149 | UI: Time Step: 0.026 seconds per step
+  7767 | 2012-03-31 20:32:42.636 |  * Duplicate Lines | 1 x | UI: Time Step: 0.026 seconds per step
+  7767 | 2012-03-31 20:32:42.636 | UI: 1 real sec = 1.08 seconds
+  7815 | 2012-03-31 20:32:43.838 | UI: 1 real sec = 10.0 seconds
+  8355 | 2012-03-31 20:32:56.766 | UI: Time Step: 0.24 seconds per step
+  8390 | 2012-03-31 20:32:57.627 |  * Duplicate Lines | 1 x | UI: Time Step: 0.24 seconds per step
+  8390 | 2012-03-31 20:32:57.627 | UI: 1 real sec = 9.74 seconds
+  8423 | 2012-03-31 20:32:58.448 | UI: 1 real sec = 1.67 minutes
+  9265 | 2012-03-31 20:33:18.733 | UI: Time Step: 3.43 seconds per step
+  9352 | 2012-03-31 20:33:20.905 | UI: Time Step: 2.00 minutes per step
+  9575 | 2012-03-31 20:33:26.652 |  * Duplicate Lines | 1 x | UI: Time Step: 2.00 minutes per step
+  9575 | 2012-03-31 20:33:26.652 | UI: Time Step: 15.0 minutes per step
+ 10667 | 2012-03-31 20:33:53.367 |  * Duplicate Lines | 1 x | UI: Time Step: 15.0 minutes per step
+ 10667 | 2012-03-31 20:33:53.367 | UI: Time Step: 1.00 hour per step
+ 11273 | 2012-03-31 20:34:08.068 |  * Duplicate Lines | 1 x | UI: Time Step: 1.00 hour per step
+ 11273 | 2012-03-31 20:34:08.068 | UI: Time Step: 1.00 day per step
+ 11823 | 2012-03-31 20:34:22.225 |  * Duplicate Lines | 1 x | UI: Time Step: 1.00 day per step
+ 11823 | 2012-03-31 20:34:22.225 | UI: Time Step: 1.00 hour per step
+ 12297 | 2012-03-31 20:34:34.479 |  * Duplicate Lines | 1 x | UI: Time Step: 1.00 hour per step
+ 12297 | 2012-03-31 20:34:34.479 | UI: Time Step: 1.00 day per step
+ 13421 | 2012-03-31 20:35:02.635 |  * Duplicate Lines | 1 x | UI: Time Step: 1.00 day per step
+ 13421 | 2012-03-31 20:35:02.635 | UI: Time Step: 1.01 days per step
+ 13445 | 2012-03-31 20:35:03.228 |  * Duplicate Lines | 1 x | UI: Time Step: 1.01 days per step
+ 13445 | 2012-03-31 20:35:03.228 | UI: Time Step: 1.02 days per step
+ 13459 | 2012-03-31 20:35:03.564 |  * Duplicate Lines | 1 x | UI: Time Step: 1.02 days per step
+ 13459 | 2012-03-31 20:35:03.564 | Double Click  0.430820457055233
+ 13462 | 2012-03-31 20:35:03.657 | UI: Time Step: 1.03 days per step
+ 13466 | 2012-03-31 20:35:03.739 |  * Duplicate Lines | 1 x | UI: Time Step: 1.03 days per step
+ 13466 | 2012-03-31 20:35:03.739 | Double Click  0.174646902596578
+ 13469 | 2012-03-31 20:35:03.834 | UI: Time Step: 1.04 days per step
+ 13471 | 2012-03-31 20:35:03.864 |  * Duplicate Lines | 1 x | UI: Time Step: 1.04 days per step
+ 13471 | 2012-03-31 20:35:03.864 | Double Click  0.124982345150784
+ 13475 | 2012-03-31 20:35:03.982 | UI: Time Step: 1.05 days per step
+ 13476 | 2012-03-31 20:35:03.989 |  * Duplicate Lines | 1 x | UI: Time Step: 1.05 days per step
+ 13476 | 2012-03-31 20:35:03.989 | Double Click  0.125351684982888
+ 13602 | 2012-03-31 20:35:07.177 | UI: Time Step: 5.00 days per step
+ 14306 | 2012-03-31 20:35:25.739 |  * Duplicate Lines | 1 x | UI: Time Step: 5.00 days per step
+ 14306 | 2012-03-31 20:35:25.739 | UI: Time Step: 1.00 day per step
+ 14497 | 2012-03-31 20:35:31.278 |  * Duplicate Lines | 1 x | UI: Time Step: 1.00 day per step
+ 14497 | 2012-03-31 20:35:31.278 | UI: Time Step: 2.00 minutes per step
+ 14969 | 2012-03-31 20:35:44.261 |  * Duplicate Lines | 1 x | UI: Time Step: 2.00 minutes per step
+ 14969 | 2012-03-31 20:35:44.261 | UI: Time Step: 1.00 day per step
+ 16782 | 2012-03-31 20:36:34.249 |  * Duplicate Lines | 1 x | UI: Time Step: 1.00 day per step
+ 16782 | 2012-03-31 20:36:34.249 | UI: Time Step: 1.37 years per step
+ 16872 | 2012-03-31 20:36:36.711 |  * Duplicate Lines | 1 x | UI: Time Step: 1.37 years per step
+ 16872 | 2012-03-31 20:36:36.711 | UI: Time Step: 15.0 minutes per step
+ 17043 | 2012-03-31 20:36:41.433 |  * Duplicate Lines | 1 x | UI: Time Step: 15.0 minutes per step
+ 17043 | 2012-03-31 20:36:41.433 | UI: Time Step: 1.00 day per step
+ 17751 | 2012-03-31 20:37:02.364 | Double Click  0.166068402002566
+ 17754 | 2012-03-31 20:37:02.456 | UI: Focus on Earth
+ 18747 | 2012-03-31 20:37:33.968 | Double Click  0.28082186949905
+ 18777 | 2012-03-31 20:37:34.975 | Double Click  0.135804073303007
+ 18780 | 2012-03-31 20:37:35.073 | UI: Focus on Mars
+ 18875 | 2012-03-31 20:37:38.238 | Double Click  0.132641026983038
+ 18877 | 2012-03-31 20:37:38.313 | UI: Focus on Sun
+ 19048 | 2012-03-31 20:37:44.227 | Double Click  0.102825132082216
+ 19050 | 2012-03-31 20:37:44.297 | UI: Focus on Jupiter
+ 19361 | 2012-03-31 20:37:54.498 | UI: Focus on Saturn
+ 19363 | 2012-03-31 20:37:54.575 | Double Click  0.146034363424405
+ 19498 | 2012-03-31 20:37:59.071 | LEFTopened:True
+ 19568 | 2012-03-31 20:38:01.379 | LoadedWebpage default.htm
+ 19671 | 2012-03-31 20:38:04.918 | Double Click  0.120723990839906
+ 19672 | 2012-03-31 20:38:05.033 | NewtonReset: Newton Unloaded
+ 19672 | 2012-03-31 20:38:05.036 | SaveLocalSettings Complete
+ 19672 | 2012-03-31 20:38:05.037 | -- Stats ----------------------
+ 19672 | 2012-03-31 20:38:05.037 | Systems Loaded: 2
+ 19672 | 2012-03-31 20:38:05.037 | MouseClicks   : 146 | 0 | 0
+ 19672 | 2012-03-31 20:38:05.037 | Current FPS   : 26.7
+ 19672 | 2012-03-31 20:38:05.037 | Session Time  : 8.46 minutes
+ 19672 | 2012-03-31 20:38:05.037 | System Time   : 8.24 minutes
+ 19672 | 2012-03-31 20:38:05.037 | -------------------------------
+ 19672 | 2012-03-31 20:38:05.037 | 
+ 19672 | 2012-03-31 20:38:05.037 | -- New System -----------------
+ 19672 | 2012-03-31 20:38:05.037 | Loading System: Galaxies - Our Local Group.ubox  |  c:\program files (x86)\steam\steamapps\common\universe sandbox\simulations\Galaxies - Our Local Group.ubox
+ 19672 | 2012-03-31 20:38:05.063 | Created system with 71 bodies.
+ 19672 | 2012-03-31 20:38:05.068 | Rotate Sun 7.25
+ 19672 | 2012-03-31 20:38:05.840 | Engine.Scale | 0.00000000000000000007
+ 19673 | 2012-03-31 20:38:06.391 | Loaded Texture: StarrySky1
+ 19674 | 2012-03-31 20:38:06.430 | Loaded Texture: StarrySky2
+ 19939 | 2012-03-31 20:38:12.592 | Double Click  0.0896757860900834
+ 19944 | 2012-03-31 20:38:12.702 | UI: Focus on Sun
+ 20620 | 2012-03-31 20:38:25.417 | Double Click  0.0916859693825245
+ 20625 | 2012-03-31 20:38:25.510 | UI: Focus on Large Magellanic Cloud
+ 21055 | 2012-03-31 20:38:34.032 | LoadedWebpage default.htm
+ 21144 | 2012-03-31 20:38:35.963 | NewtonReset: Newton Unloaded
+ 21144 | 2012-03-31 20:38:35.965 | SaveLocalSettings Complete
+ 21144 | 2012-03-31 20:38:35.966 | -- Stats ----------------------
+ 21144 | 2012-03-31 20:38:35.966 | Systems Loaded: 3
+ 21144 | 2012-03-31 20:38:35.966 | MouseClicks   : 158 | 0 | 0
+ 21144 | 2012-03-31 20:38:35.966 | Current FPS   : 48.3
+ 21144 | 2012-03-31 20:38:35.966 | Session Time  : 8.98 minutes
+ 21144 | 2012-03-31 20:38:35.966 | System Time   : 31.0 seconds
+ 21144 | 2012-03-31 20:38:35.966 | -------------------------------
+ 21144 | 2012-03-31 20:38:35.966 | 
+ 21144 | 2012-03-31 20:38:35.966 | -- New System -----------------
+ 21144 | 2012-03-31 20:38:35.966 | Loading System: Earth & Moon.ubox  |  c:\program files (x86)\steam\steamapps\common\universe sandbox\simulations\Earth & Moon.ubox
+ 21144 | 2012-03-31 20:38:36.057 | Read 1619 Horizon Data from c:\program files (x86)\steam\steamapps\common\universe sandbox\data\Horizon-2008-01-01.xml
+ 21144 | 2012-03-31 20:38:36.058 | Created system with 2 bodies.
+ 21144 | 2012-03-31 20:38:36.061 | Rotate Earth 23.45
+ 21144 | 2012-03-31 20:38:36.064 | Rotate Moon 5.145
+ 21144 | 2012-03-31 20:38:36.064 | Engine.Scale | 0.000000011
+ 21145 | 2012-03-31 20:38:36.103 | Double Click  0.25359523750376
+ 22702 | 2012-03-31 20:38:42.704 | UI: Time Step: 2.00 minutes per step
+ 22880 | 2012-03-31 20:38:43.627 | UI: Time Step: 1.00 day per step
+ 24544 | 2012-03-31 20:38:59.597 |  * Duplicate Lines | 1 x | UI: Time Step: 1.00 day per step
+ 24544 | 2012-03-31 20:38:59.597 | UI: Time Step: 15.0 minutes per step
+ 25607 | 2012-03-31 20:39:19.846 | Double Click  0.129900991567411
+ 25610 | 2012-03-31 20:39:19.950 | UI: Focus on Earth
+ 26273 | 2012-03-31 20:39:32.793 | UI: Time Step: 15.0 minutes per step
+ 26318 | 2012-03-31 20:39:33.690 | UI: Time Step: 2.00 minutes per step
+ 26445 | 2012-03-31 20:39:36.191 |  * Duplicate Lines | 2 x | UI: Time Step: 2.00 minutes per step
+ 26445 | 2012-03-31 20:39:36.191 | UI: 1 real sec = 1.84 hours
+ 26505 | 2012-03-31 20:39:37.378 | UI: 1 real sec = 1.00 second
+ 26706 | 2012-03-31 20:39:41.275 | UI: Time Step: 0.024 seconds per step
+ 26764 | 2012-03-31 20:39:42.509 |  * Duplicate Lines | 1 x | UI: Time Step: 0.024 seconds per step
+ 26764 | 2012-03-31 20:39:42.509 | UI: 1 real sec = 1.31 seconds
+ 26815 | 2012-03-31 20:39:43.510 | UI: 1 real sec = 10.0 seconds
+ 26862 | 2012-03-31 20:39:44.410 | UI: Time Step: 0.18 seconds per step
+ 26887 | 2012-03-31 20:39:44.893 |  * Duplicate Lines | 1 x | UI: Time Step: 0.18 seconds per step
+ 26887 | 2012-03-31 20:39:44.893 | UI: 1 real sec = 9.85 seconds
+ 26924 | 2012-03-31 20:39:45.608 | UI: 1 real sec = 1.67 minutes
+ 27366 | 2012-03-31 20:39:54.207 | LoadedWebpage default.htm
+ 27581 | 2012-03-31 20:39:58.987 | NewtonReset: Newton Unloaded
+ 27581 | 2012-03-31 20:39:58.989 | SaveLocalSettings Complete
+ 27581 | 2012-03-31 20:39:58.990 | -- Stats ----------------------
+ 27581 | 2012-03-31 20:39:58.990 | Systems Loaded: 4
+ 27581 | 2012-03-31 20:39:58.990 | MouseClicks   : 188 | 0 | 0
+ 27581 | 2012-03-31 20:39:58.990 | Current FPS   : 47.2
+ 27581 | 2012-03-31 20:39:58.990 | Session Time  : 10.4 minutes
+ 27581 | 2012-03-31 20:39:58.990 | System Time   : 1.38 minutes
+ 27581 | 2012-03-31 20:39:58.990 | -------------------------------
+ 27581 | 2012-03-31 20:39:58.990 | 
+ 27581 | 2012-03-31 20:39:58.990 | -- New System -----------------
+ 27581 | 2012-03-31 20:39:58.990 | Loading System: Shoemaker-Levy 9 crashes into Jupiter in 1994.ubox  |  c:\program files (x86)\steam\steamapps\common\universe sandbox\simulations\Shoemaker-Levy 9 crashes into Jupiter in 1994.ubox
+ 27581 | 2012-03-31 20:39:59.031 | Read 55 Horizon Data from c:\program files (x86)\steam\steamapps\common\universe sandbox\data\Horizon-1994-07-14.xml
+ 27581 | 2012-03-31 20:39:59.035 * Error: Can't find Position Data (Horizon or RAdec) for 2003J5
+ 27581 | 2012-03-31 20:39:59.035 * Error: Can't find Position Data (Horizon or RAdec) for 2003J10
+ 27581 | 2012-03-31 20:39:59.035 * Error: Can't find Position Data (Horizon or RAdec) for Kore
+ 27581 | 2012-03-31 20:39:59.035 * Error: Can't find Position Data (Horizon or RAdec) for 2003J15
+ 27581 | 2012-03-31 20:39:59.035 * Error: Can't find Position Data (Horizon or RAdec) for 2003J16
+ 27581 | 2012-03-31 20:39:59.035 * Error: Can't find Position Data (Horizon or RAdec) for 2003J17
+ 27581 | 2012-03-31 20:39:59.035 * Error: Can't find Position Data (Horizon or RAdec) for 2003J18
+ 27581 | 2012-03-31 20:39:59.035 * Error: Can't find Position Data (Horizon or RAdec) for 2003J19
+ 27581 | 2012-03-31 20:39:59.035 * Error: Can't find Position Data (Horizon or RAdec) for 2003J2
+ 27581 | 2012-03-31 20:39:59.035 * Error: Can't find Position Data (Horizon or RAdec) for 2003J23
+ 27581 | 2012-03-31 20:39:59.035 * Error: Can't find Position Data (Horizon or RAdec) for 2003J3
+ 27581 | 2012-03-31 20:39:59.035 * Error: Can't find Position Data (Horizon or RAdec) for 2003J4
+ 27581 | 2012-03-31 20:39:59.035 * Error: Can't find Position Data (Horizon or RAdec) for Aoede
+ 27581 | 2012-03-31 20:39:59.035 * Error: Can't find Position Data (Horizon or RAdec) for Autonoe
+ 27581 | 2012-03-31 20:39:59.036 * Error: Can't find Position Data (Horizon or RAdec) for Eukelade
+ 27581 | 2012-03-31 20:39:59.036 * Error: Can't find Position Data (Horizon or RAdec) for Harpalyke
+ 27581 | 2012-03-31 20:39:59.036 * Error: Can't find Position Data (Horizon or RAdec) for Helike
+ 27581 | 2012-03-31 20:39:59.042 * Error: Can't find Position Data (Horizon or RAdec) for Hermippe
+ 27581 | 2012-03-31 20:39:59.042 * Error: Can't find Position Data (Horizon or RAdec) for Isonoe
+ 27581 | 2012-03-31 20:39:59.042 * Error: Can't find Position Data (Horizon or RAdec) for Thelxinoe
+ 27581 | 2012-03-31 20:39:59.042 * Error: Can't find Position Data (Horizon or RAdec) for Thyone
+ 27581 | 2012-03-31 20:39:59.042 * Error: Can't find Position Data (Horizon or RAdec) for Aitne
+ 27581 | 2012-03-31 20:39:59.042 * Error: Can't find Position Data (Horizon or RAdec) for Arche
+ 27581 | 2012-03-31 20:39:59.042 * Error: Can't find Position Data (Horizon or RAdec) for Carpo
+ 27581 | 2012-03-31 20:39:59.042 * Error: Can't find Position Data (Horizon or RAdec) for Erinome
+ 27581 | 2012-03-31 20:39:59.042 * Error: Can't find Position Data (Horizon or RAdec) for Euanthe
+ 27581 | 2012-03-31 20:39:59.042 * Error: Can't find Position Data (Horizon or RAdec) for Eurydome
+ 27581 | 2012-03-31 20:39:59.042 * Error: Can't find Position Data (Horizon or RAdec) for Hegemone
+ 27581 | 2012-03-31 20:39:59.042 * Error: Can't find Position Data (Horizon or RAdec) for 2003J12
+ 27581 | 2012-03-31 20:39:59.043 * Error: Can't find Position Data (Horizon or RAdec) for 2003J9
+ 27581 | 2012-03-31 20:39:59.043 * Error: Can't find Position Data (Horizon or RAdec) for Cyllene
+ 27581 | 2012-03-31 20:39:59.043 * Error: Can't find Position Data (Horizon or RAdec) for Euporie
+ 27581 | 2012-03-31 20:39:59.043 * Error: Can't find Position Data (Horizon or RAdec) for Kale
+ 27581 | 2012-03-31 20:39:59.043 * Error: Can't find Position Data (Horizon or RAdec) for Kallichore
+ 27581 | 2012-03-31 20:39:59.043 * Error: Can't find Position Data (Horizon or RAdec) for Mneme
+ 27581 | 2012-03-31 20:39:59.043 * Error: Can't find Position Data (Horizon or RAdec) for Orthosie
+ 27581 | 2012-03-31 20:39:59.043 * Error: Can't find Position Data (Horizon or RAdec) for Pasithee
+ 27581 | 2012-03-31 20:39:59.043 * Error: Can't find Position Data (Horizon or RAdec) for Sponde
+ 27581 | 2012-03-31 20:39:59.043 | Created system with 53 bodies.
+ 27581 | 2012-03-31 20:39:59.048 | Rotate Sun 7.25
+ 27581 | 2012-03-31 20:39:59.053 | Rotate Jupiter 3.12
+ 27581 | 2012-03-31 20:39:59.057 | Rotate Saturn 26.73
+ 27581 | 2012-03-31 20:39:59.061 | Rotate Uranus 97.86
+ 27581 | 2012-03-31 20:39:59.065 | Rotate Neptune 29.56
+ 27581 | 2012-03-31 20:39:59.068 | Rotate Earth 23.45
+ 27581 | 2012-03-31 20:39:59.071 | Rotate Venus 177.4
+ 27581 | 2012-03-31 20:39:59.073 | Rotate Mars 25.19
+ 27581 | 2012-03-31 20:39:59.074 * Error: Can't find object: HorizionID:901396;
+ 27581 | 2012-03-31 20:39:59.075 * Error: Can't find object: HorizionID:901395;
+ 27581 | 2012-03-31 20:39:59.076 * Error: Can't find object: HorizionID:901394;
+ 27581 | 2012-03-31 20:39:59.077 * Error: Can't find object: HorizionID:901393;
+ 27581 | 2012-03-31 20:39:59.079 * Error: Can't find object: HorizionID:901392;
+ 27581 | 2012-03-31 20:39:59.080 * Error: Can't find object: HorizionID:901391;
+ 27581 | 2012-03-31 20:39:59.081 * Error: Can't find object: HorizionID:901390;
+ 27581 | 2012-03-31 20:39:59.082 * Error: Can't find object: HorizionID:901389;
+ 27581 | 2012-03-31 20:39:59.083 * Error: Can't find object: HorizionID:901388;
+ 27581 | 2012-03-31 20:39:59.084 * Error: Can't find object: HorizionID:901387;
+ 27581 | 2012-03-31 20:39:59.085 * Error: Can't find object: HorizionID:901386;
+ 27581 | 2012-03-31 20:39:59.087 * Error: Can't find object: HorizionID:901385;
+ 27581 | 2012-03-31 20:39:59.088 * Error: Can't find object: HorizionID:901384;
+ 27581 | 2012-03-31 20:39:59.089 * Error: Can't find object: HorizionID:901383;
+ 27581 | 2012-03-31 20:39:59.090 * Error: Can't find object: HorizionID:901382;
+ 27581 | 2012-03-31 20:39:59.091 * Error: Can't find object: HorizionID:901381;
+ 27581 | 2012-03-31 20:39:59.092 * Error: Can't find object: HorizionID:901380;
+ 27581 | 2012-03-31 20:39:59.094 * Error: Can't find object: HorizionID:901379;
+ 27581 | 2012-03-31 20:39:59.095 * Error: Can't find object: HorizionID:901378;
+ 27581 | 2012-03-31 20:39:59.096 * Error: Can't find object: HorizionID:901377;
+ 27581 | 2012-03-31 20:39:59.097 * Error: Can't find object: HorizionID:901376;
+ 27581 | 2012-03-31 20:39:59.124 | Aligned Jupiter
+ 27581 | 2012-03-31 20:39:59.124 | Aligned Saturn
+ 27581 | 2012-03-31 20:39:59.124 | Aligned Uranus
+ 27581 | 2012-03-31 20:39:59.124 | Aligned Neptune
+ 27581 | 2012-03-31 20:39:59.125 | Engine.Scale | 0.0000000011
+ 27581 | 2012-03-31 20:39:59.125 | UI: Jupiter Centered
+ 27581 | 2012-03-31 20:39:59.125 | RelativePositionMoonID 2
+ 28804 | 2012-03-31 20:40:26.781 | Double Click  0.121540351887234
+ 28807 | 2012-03-31 20:40:26.880 | UI: Focus on Shoemaker-Levy 9 - A
+ 29253 | 2012-03-31 20:40:38.913 | UI: Time Step: 2.00 minutes per step
+ 29526 | 2012-03-31 20:40:46.728 |  * Duplicate Lines | 3 x | UI: Time Step: 2.00 minutes per step
+ 29526 | 2012-03-31 20:40:46.729 | UI: 1 real sec = 1.45 hours
+ 29585 | 2012-03-31 20:40:48.313 | UI: 1 real sec = 1.00 second
+ 29828 | 2012-03-31 20:40:56.055 | UI: Time Step: 0.031 seconds per step
+ 29871 | 2012-03-31 20:40:57.237 |  * Duplicate Lines | 1 x | UI: Time Step: 0.031 seconds per step
+ 29871 | 2012-03-31 20:40:57.237 | UI: 1 real sec = 1.29 seconds
+ 29940 | 2012-03-31 20:40:58.757 | UI: 1 real sec = 1.67 minutes
+ 30063 | 2012-03-31 20:41:01.635 | Double Click  0.118969803210348
+ 30066 | 2012-03-31 20:41:01.706 | UI: Focus on Jupiter
+ 31320 | 2012-03-31 20:41:30.981 | UI: Time Step: 2.43 seconds per step
+ 31389 | 2012-03-31 20:41:32.726 | UI: Time Step: 2.00 minutes per step
+ 32136 | 2012-03-31 20:41:51.014 | LoadedWebpage default.htm
+ 32364 | 2012-03-31 20:41:57.481 | NewtonReset: Newton Unloaded
+ 32364 | 2012-03-31 20:41:57.483 | SaveLocalSettings Complete
+ 32364 | 2012-03-31 20:41:57.484 | -- Stats ----------------------
+ 32364 | 2012-03-31 20:41:57.484 | Systems Loaded: 5
+ 32364 | 2012-03-31 20:41:57.484 | MouseClicks   : 223 | 0 | 0
+ 32364 | 2012-03-31 20:41:57.484 | Current FPS   : 35.9
+ 32364 | 2012-03-31 20:41:57.484 | Session Time  : 12.3 minutes
+ 32364 | 2012-03-31 20:41:57.484 | System Time   : 1.97 minutes
+ 32364 | 2012-03-31 20:41:57.484 | -------------------------------
+ 32364 | 2012-03-31 20:41:57.484 | 
+ 32364 | 2012-03-31 20:41:57.484 | -- New System -----------------
+ 32364 | 2012-03-31 20:41:57.484 | Loading System: Galaxy Collision - Milky Way & Andromeda.ubox  |  c:\program files (x86)\steam\steamapps\common\universe sandbox\simulations\Galaxy Collision - Milky Way & Andromeda.ubox
+ 32364 | 2012-03-31 20:41:57.486 | Created system with 3 bodies.
+ 32364 | 2012-03-31 20:41:57.502 | Rotate Sun 7.25
+ 32364 | 2012-03-31 20:41:57.826 | Engine.Scale | 0.0000000000000000053
+ 34495 | 2012-03-31 20:43:23.990 | UI: Time Step: 50000 years per step
+ 34614 | 2012-03-31 20:43:28.666 | Double Click  0.197162509546615
+ 34624 | 2012-03-31 20:43:29.067 | Double Click  0.400784935452975
+ 34629 | 2012-03-31 20:43:29.261 | Double Click  0.193993460619822
+ 34633 | 2012-03-31 20:43:29.415 | Double Click  0.15366515063215
+ 34643 | 2012-03-31 20:43:29.833 | UI: Time Step: 100000 years per step
+ 36232 | 2012-03-31 20:44:30.781 | LoadedWebpage default.htm
+ 36375 | 2012-03-31 20:44:36.502 | NewtonReset: Newton Unloaded
+ 36375 | 2012-03-31 20:44:36.505 | SaveLocalSettings Complete
+ 36375 | 2012-03-31 20:44:36.506 | -- Stats ----------------------
+ 36375 | 2012-03-31 20:44:36.506 | Systems Loaded: 6
+ 36375 | 2012-03-31 20:44:36.506 | MouseClicks   : 247 | 0 | 0
+ 36375 | 2012-03-31 20:44:36.506 | Current FPS   : 26.8
+ 36375 | 2012-03-31 20:44:36.506 | Session Time  : 15.0 minutes
+ 36375 | 2012-03-31 20:44:36.506 | System Time   : 2.65 minutes
+ 36375 | 2012-03-31 20:44:36.506 | -------------------------------
+ 36375 | 2012-03-31 20:44:36.506 | 
+ 36375 | 2012-03-31 20:44:36.506 | -- New System -----------------
+ 36375 | 2012-03-31 20:44:36.506 | Loading System: Our Solar System - moons & named asteroids.ubox  |  c:\program files (x86)\steam\steamapps\common\universe sandbox\simulations\Our Solar System - moons & named asteroids.ubox
+ 36375 | 2012-03-31 20:44:36.611 | Read 1619 Horizon Data from c:\program files (x86)\steam\steamapps\common\universe sandbox\data\Horizon-2008-01-01.xml
+ 36375 | 2012-03-31 20:44:36.620 * Error: Can't find any object data for Voyager II 
+ 36375 | 2012-03-31 20:44:36.620 * Error: Can't find Position Data (Horizon or RAdec) for Voyager II 
+ 36375 | 2012-03-31 20:44:36.621 | Created system with 470 bodies.
+ 36375 | 2012-03-31 20:44:36.625 | Rotate Sun 7.25
+ 36375 | 2012-03-31 20:44:36.630 | Rotate Jupiter 3.12
+ 36375 | 2012-03-31 20:44:36.635 | Rotate Saturn 26.73
+ 36375 | 2012-03-31 20:44:36.638 | Rotate Uranus 97.86
+ 36375 | 2012-03-31 20:44:36.644 | Rotate Neptune 29.56
+ 36375 | 2012-03-31 20:44:36.647 | Rotate Earth 23.45
+ 36375 | 2012-03-31 20:44:36.650 | Rotate Venus 177.4
+ 36375 | 2012-03-31 20:44:36.653 | Rotate Mars 25.19
+ 36375 | 2012-03-31 20:44:36.655 | Rotate Mercury 0.1
+ 36375 | 2012-03-31 20:44:36.659 | Rotate Moon 5.145
+ 36375 | 2012-03-31 20:44:36.662 | Rotate Pluto 119.6
+ 36375 | 2012-03-31 20:44:36.673 | Rotate Ceres 4
+ 36375 | 2012-03-31 20:44:36.689 | Rotate Pallas 60
+ 36375 | 2012-03-31 20:44:37.531 | Aligned Jupiter
+ 36375 | 2012-03-31 20:44:37.531 | Aligned Saturn
+ 36375 | 2012-03-31 20:44:37.531 | Aligned Uranus
+ 36375 | 2012-03-31 20:44:37.532 | Aligned Neptune
+ 36375 | 2012-03-31 20:44:37.533 | Engine.Scale | 0.00000000032
+ 37072 | 2012-03-31 20:45:07.906 | Double Click  0.180267506628297
+ 37074 | 2012-03-31 20:45:07.996 | UI: Focus on Venus
+ 37337 | 2012-03-31 20:45:19.394 |  * Duplicate Lines | 2 x | UI: Focus on Venus
+ 37337 | 2012-03-31 20:45:19.394 | UI: Focus on Adorea
+ 37339 | 2012-03-31 20:45:19.480 | UI: Focus on Earth
+ 37778 | 2012-03-31 20:45:36.355 |  * Duplicate Lines | 2 x | UI: Focus on Earth
+ 37778 | 2012-03-31 20:45:36.355 | Double Click  0.109230671427213
+ 37780 | 2012-03-31 20:45:36.429 | UI: Focus on Earth
+ 38825 | 2012-03-31 20:46:16.866 | UI: Time Step: 7.00 minutes per step
+ 38845 | 2012-03-31 20:46:17.708 |  * Duplicate Lines | 1 x | UI: Time Step: 7.00 minutes per step
+ 38845 | 2012-03-31 20:46:17.708 | UI: 1 real sec = 3.02 hours
+ 38859 | 2012-03-31 20:46:18.260 |  * Duplicate Lines | 1 x | UI: 1 real sec = 3.02 hours
+ 38859 | 2012-03-31 20:46:18.260 | UI: Time Step: 7.08 minutes per step
+ 38909 | 2012-03-31 20:46:20.188 | UI: Time Step: 1.00 hour per step
+ 39997 | 2012-03-31 20:47:11.791 |  * Duplicate Lines | 1 x | UI: Time Step: 1.00 hour per step
+ 39997 | 2012-03-31 20:47:11.791 | UI: Time Step: 1.00 day per step
+ 39998 | 2012-03-31 20:47:11.810 | Double Click  0.163546227500774
+ 40142 | 2012-03-31 20:47:22.443 | Double Click  0.172083415673114
+ 40143 | 2012-03-31 20:47:22.530 | UI: Focus on Sun
+ 40396 | 2012-03-31 20:47:45.141 | UI: Time Step: 1.00 day per step
+ 40408 | 2012-03-31 20:47:46.210 | UI: Time Step: 15.0 minutes per step
+ 40509 | 2012-03-31 20:47:54.144 | Double Click  0.149667735327967
+ 40510 | 2012-03-31 20:47:54.219 | UI: Focus on Metis
+ 40520 | 2012-03-31 20:47:55.056 | UI: Time Step: 15.0 minutes per step
+ 40532 | 2012-03-31 20:47:55.974 | UI: Time Step: 1.00 day per step
+ 40704 | 2012-03-31 20:48:10.165 | LoadedWebpage default.htm
+ 40760 | 2012-03-31 20:48:15.016 | NewtonReset: Newton Unloaded
+ 40760 | 2012-03-31 20:48:15.020 | SaveLocalSettings Complete
+ 40760 | 2012-03-31 20:48:15.021 | -- Stats ----------------------
+ 40760 | 2012-03-31 20:48:15.021 | Systems Loaded: 7
+ 40760 | 2012-03-31 20:48:15.021 | MouseClicks   : 278 | 0 | 0
+ 40760 | 2012-03-31 20:48:15.021 | Current FPS   : 12.1
+ 40760 | 2012-03-31 20:48:15.021 | Session Time  : 18.6 minutes
+ 40760 | 2012-03-31 20:48:15.021 | System Time   : 3.64 minutes
+ 40760 | 2012-03-31 20:48:15.021 | -------------------------------
+ 40760 | 2012-03-31 20:48:15.021 | 
+ 40760 | 2012-03-31 20:48:15.021 | -- New System -----------------
+ 40760 | 2012-03-31 20:48:15.022 | Loading System: Jupiter & Moons.ubox  |  c:\program files (x86)\steam\steamapps\common\universe sandbox\simulations\Jupiter & Moons.ubox
+ 40760 | 2012-03-31 20:48:15.153 | Read 1619 Horizon Data from c:\program files (x86)\steam\steamapps\common\universe sandbox\data\Horizon-2008-01-01.xml
+ 40760 | 2012-03-31 20:48:15.155 | Created system with 63 bodies.
+ 40760 | 2012-03-31 20:48:15.160 | Rotate Jupiter 3.12
+ 40760 | 2012-03-31 20:48:15.267 | Aligned Jupiter
+ 40760 | 2012-03-31 20:48:15.278 | Engine.Scale | 0.000000011
+ 41072 | 2012-03-31 20:48:19.165 | UI: Focus on Jupiter
+ 41072 | 2012-03-31 20:48:19.165 | UI: Focus on Amalthea
+ 41084 | 2012-03-31 20:48:19.320 | UI: Focus on Carme
+ 41093 | 2012-03-31 20:48:19.431 | UI: Focus on Metis
+ 43054 | 2012-03-31 20:49:07.502 |  * Duplicate Lines | 2 x | UI: Focus on Metis
+ 43054 | 2012-03-31 20:49:07.502 | Lost Focus
+ 43054 | 2012-03-31 20:49:08.792 | SaveLocalSettings Complete
+ 43054 | 2012-03-31 20:49:08.792 | -- Stats ----------------------
+ 43054 | 2012-03-31 20:49:08.792 | Systems Loaded: 8
+ 43054 | 2012-03-31 20:49:08.792 | MouseClicks   : 281 | 0 | 0
+ 43054 | 2012-03-31 20:49:08.792 | Current FPS   : 45.5
+ 43054 | 2012-03-31 20:49:08.792 | Session Time  : 19.5 minutes
+ 43054 | 2012-03-31 20:49:08.792 | System Time   : 52.7 seconds
+ 43054 | 2012-03-31 20:49:08.792 | -------------------------------
+ 43054 | 2012-03-31 20:49:08.792 | 
+ 43054 | 2012-03-31 20:49:08.792 | -- Settings -------------------
+ 43054 | 2012-03-31 20:49:08.792 | RunCount        : 5
+ 43054 | 2012-03-31 20:49:08.792 | RunTime         : 26.4 minutes
+ 43054 | 2012-03-31 20:49:08.792 | RunTimeDemo     : 0.0 seconds
+ 43054 | 2012-03-31 20:49:08.792 | LastVersion     : 2.1.5
+ 43054 | 2012-03-31 20:49:08.792 | CommentCount    : 0
+ 43054 | 2012-03-31 20:49:08.792 | CheckCount      : 0 0
+ 43054 | 2012-03-31 20:49:08.792 | CommentAskCount : 1 0
+ 43054 | 2012-03-31 20:49:08.792 | CrashCount      : 0
+ 43054 | 2012-03-31 20:49:08.792 | EmailAddress    : 
+ 43054 | 2012-03-31 20:49:08.793 | Premium        :  |  | 
+ 43054 | 2012-03-31 20:49:08.793 | -------------------------------
+ 43054 | 2012-03-31 20:49:08.793 | Particle Multi      : 1
+ 43054 | 2012-03-31 20:49:08.793 | 3D Inter Dist       : 1.5
+ 43054 | 2012-03-31 20:49:08.794 | -------------------------------
+ 43054 | 2012-03-31 20:49:08.794 | -- Engine Properties ----------
+ 43054 | 2012-03-31 20:49:08.794 | Window Size             : 1280 x 720
+ 43054 | 2012-03-31 20:49:08.794 | Available Texture Memory: -74.4 M bytes
+ 43054 | 2012-03-31 20:49:08.794 | Used Texture Memory     : 33.0 MB
+ 43054 | 2012-03-31 20:49:08.794 | -------------------------------
+ 43054 | 2012-03-31 20:49:08.846 | Closing Steam...
+ 43054 | 2012-03-31 20:49:08.900 | Steam Shutdown Complete
+ 43054 | 2012-03-31 20:49:08.901 | App: Beginning Dispose
+ 43054 | 2012-03-31 20:49:08.901 | NewtonReset: Newton Unloaded
+ 43054 | 2012-03-31 20:49:08.902 | ExitTest Loaded
+ 43054 | 2012-03-31 20:49:08.963 | App: Beginning DeleteAllTextures
+ 43054 | 2012-03-31 20:49:08.981 | App: Beginning UI Dispose
+ 43054 | 2012-03-31 20:49:08.981 | Skipping Dispose of Webcore
+ 43054 | 2012-03-31 20:49:08.981 | App: Finished UI Dispose
+ 43054 | 2012-03-31 20:49:09.020 | App: Finish Dispose
+ 43054 | 2012-03-31 20:49:09.020 | UpdateForm Active
+ 43054 | 2012-03-31 20:49:09.021 | Lost Focus
+ 43054 | 2012-03-31 20:49:09.271 | UpdateForm Final Call

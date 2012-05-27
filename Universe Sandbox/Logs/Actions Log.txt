@@ -1,0 +1,461 @@
+     0 |     1.45 s |        1.5 s | Info   : --------------------------------------------
+     0 |     1.45 s |        0.0 s | Info   : Universe Sandbox Action File
+     0 |     1.45 s |        0.0 s | Info   : --------------------------------------------
+     0 |     1.45 s |        0.0 s | Info   : Version               : 2.1.5 Steam
+     0 |     1.45 s |        0.0 s | Info   : StartupPath           : c:\program files (x86)\steam\steamapps\common\universe sandbox
+     0 |     1.45 s |        0.0 s | Info   : LocalApplicationData  : C:\Users\NicKJones\AppData\Local\Universe Sandbox\
+     0 |     1.45 s |        0.0 s | Info   : OS version            : Windows 7 | Microsoft Windows NT 6.1.7601 Service Pack 1
+     0 |     1.45 s |        0.0 s | Info   : Highest .NET version  : 4.0 (Final)
+     0 |     1.45 s |        0.0 s | Info   : All .NET versions     : 2.0.50727.5420 | 3.0.30729.5420 | 3.5.30729.5420 | 4.0 (Final) | 
+     0 |     1.45 s |        0.0 s | Info   : Culture               : en-US | English (United States)
+     0 |     1.45 s |        0.0 s | Info   : -- Device Info ----------------
+     0 |     1.45 s |        0.0 s | Info   : Primary Screen        : 1920 x 1080 | 32 bit | 1920 x 1080
+     0 |     1.45 s |        0.0 s | Info   : Adapter | Driver      : NVIDIA GeForce GTS 450 | nvd3dum.dll
+     0 |     1.45 s |        0.0 s | Info   : Max TextureSize       : w 8192 | h 8192
+     0 |     1.45 s |        0.0 s | Info   : Is Vertex/Pixel       : True | True
+     0 |     1.45 s |        0.0 s | Info   : Max Vertex/Pixel      :    3 |    3
+     0 |     1.45 s |        0.0 s | Info   : AntiAlias : True | Bump : True | DoubleSS : True | Reflection : True | StencilS : True
+     0 |     1.45 s |        0.0 s | Info   : -------------------------------
+     0 |     1.45 s |        0.0 s | Info   : Comp Name   : NICKJONES-PC
+     0 |     1.45 s |        0.0 s | Info   : Manufact    : Dell Inc.
+     0 |     1.45 s |        0.0 s | Info   : Model       : Inspiron 570                 
+     0 |     1.45 s |        0.0 s | Info   : OsName      : Microsoft Windows 7 Home Premium |C:\Windows|\Device\Harddisk0\Partition3
+     0 |     1.46 s |        0.0 s | Info   : OSVersion   : 6.1.7601
+     0 |     1.46 s |        0.0 s | Info   : SystemType  : x64-based PC
+     0 |     1.46 s |        0.0 s | Info   : TotalPhyMem : 8.00 GB
+     0 |     1.46 s |        0.0 s | Info   : UserTime    : 2012-03-31 20:29:38.738
+     0 |     1.46 s |        0.0 s | Info   : -------------------------------
+     0 |     6.52 s |        5.1 s | Action : Click : Live Mode
+     0 |     6.52 s |        0.0 s | Action : Tutor : click:livemode
+  1673 |     13.7 s |        7.2 s | Action : Click : Live Mode
+  1673 |     13.7 s |        0.0 s | Action : Tutor : click:livemode
+  1860 |     18.4 s |        4.7 s | Action : Tutor : click:timestep
+  2340 |     32.5 s |       14.2 s | Info   :  * Duplicate Lines | 1 x | Action : Tutor : click:timestep
+  2340 |     32.5 s |        0.0 s | Action : Tutor : click:txtrealtime
+  2415 |     34.5 s |        2.0 s | Action : Tutor : click:txtrealtime:realtime
+  2473 |     36.0 s |        1.5 s | Action : Tutor : zoomin
+  2551 |     38.2 s |        2.1 s | Info   :  * Duplicate Lines | 2 x | Action : Tutor : zoomin
+  2551 |     38.2 s |        0.0 s | Action : Tutor : dragview
+  2613 |     39.8 s |        1.6 s | Info   :  * Duplicate Lines | 48 x | Action : Tutor : dragview
+  2613 |     39.8 s |        0.0 s | Action : Tutor : zoomin
+  2859 |     45.9 s |        6.1 s | Info   :  * Duplicate Lines | 1 x | Action : Tutor : zoomin
+  2859 |     45.9 s |        0.0 s | Action : Tutor : click:timestep
+  3421 |     1.00 m |       14.3 s | Info   :  * Duplicate Lines | 1 x | Action : Tutor : click:timestep
+  3421 |     1.00 m |        0.0 s | Action : Tutor : select:none
+  3611 |     1.09 m |        5.3 s | Action : Tutor : click:timestep
+  3640 |     1.10 m |        0.8 s | Action : Tutor : click:txtrealtime
+  4277 |     1.41 m |       18.2 s | Action : Tutor : click:txtrealtime:realtime
+  4315 |     1.42 m |        1.1 s | Action : Tutor : click:timestep
+  4350 |     1.44 m |        1.0 s | Action : Tutor : click:txtrealtime
+  4410 |     1.47 m |        1.7 s | Action : Tutor : click:timestep
+  4446 |     1.49 m |        1.0 s | Action : Tutor : click:txtrealtime
+  4545 |     1.53 m |        2.8 s | Action : Tutor : click:timestep
+  4730 |     1.62 m |        5.3 s | Info   :  * Duplicate Lines | 1 x | Action : Tutor : click:timestep
+  4730 |     1.62 m |        0.0 s | Action : Tutor : click:txtrealtime
+  4964 |     1.73 m |        6.5 s | Action : Tutor : click:txtrealtime:realtime
+  5071 |     1.78 m |        3.1 s | Action : Tutor : zoomin
+  5126 |     1.81 m |        1.6 s | Info   :  * Duplicate Lines | 2 x | Action : Tutor : zoomin
+  5126 |     1.81 m |        0.0 s | Action : Tutor : dragview
+  5197 |     1.84 m |        2.1 s | Info   :  * Duplicate Lines | 42 x | Action : Tutor : dragview
+  5197 |     1.84 m |        0.0 s | Action : Tutor : zoomout
+  5237 |     1.86 m |        1.1 s | Info   :  * Duplicate Lines | 1 x | Action : Tutor : zoomout
+  5237 |     1.86 m |        0.0 s | Action : Tutor : dragview
+  5271 |     1.88 m |        1.0 s | Info   :  * Duplicate Lines | 21 x | Action : Tutor : dragview
+  5271 |     1.88 m |        0.0 s | Action : Tutor : zoomout
+  5300 |     1.89 m |        0.8 s | Action : Tutor : dragview
+  5351 |     1.92 m |        1.5 s | Info   :  * Duplicate Lines | 38 x | Action : Tutor : dragview
+  5351 |     1.92 m |        0.0 s | Action : Tutor : zoomin
+  5368 |     1.92 m |        0.5 s | Action : Tutor : dragview
+  5572 |     2.02 m |        6.0 s | Info   :  * Duplicate Lines | 160 x | Action : Tutor : dragview
+  5572 |     2.02 m |        0.0 s | Action : Tutor : zoomout
+  5590 |     2.03 m |        0.6 s | Action : Tutor : dragview
+  5683 |     2.08 m |        2.7 s | Info   :  * Duplicate Lines | 42 x | Action : Tutor : dragview
+  5683 |     2.08 m |        0.0 s | Action : Tutor : zoomout
+  5698 |     2.08 m |        0.4 s | Action : Tutor : dragview
+  6275 |     2.38 m |       17.6 s | Info   :  * Duplicate Lines | 240 x | Action : Tutor : dragview
+  6275 |     2.38 m |        0.0 s | Action : Tutor : zoomin
+  6336 |     2.41 m |        1.8 s | Info   :  * Duplicate Lines | 4 x | Action : Tutor : zoomin
+  6336 |     2.41 m |        0.0 s | Action : Tutor : dragview
+  6474 |     2.47 m |        3.8 s | Info   :  * Duplicate Lines | 103 x | Action : Tutor : dragview
+  6474 |     2.47 m |        0.0 s | Action : Tutor : zoomout
+  6506 |     2.49 m |        0.9 s | Action : Tutor : dragview
+  7186 |     2.81 m |       19.1 s | Info   :  * Duplicate Lines | 202 x | Action : Tutor : dragview
+  7186 |     2.81 m |        0.0 s | Action : Tutor : zoomout
+  7223 |     2.82 m |        1.2 s | Info   :  * Duplicate Lines | 6 x | Action : Tutor : zoomout
+  7223 |     2.82 m |        0.0 s | Action : Tutor : dragview
+  7238 |     2.83 m |        0.5 s | Info   :  * Duplicate Lines | 8 x | Action : Tutor : dragview
+  7238 |     2.83 m |        0.0 s | Action : Tutor : zoomout
+  7278 |     2.85 m |        1.3 s | Info   :  * Duplicate Lines | 5 x | Action : Tutor : zoomout
+  7278 |     2.85 m |        0.0 s | Action : Tutor : dragview
+  7571 |     3.00 m |        8.9 s | Info   :  * Duplicate Lines | 149 x | Action : Tutor : dragview
+  7571 |     3.00 m |        0.0 s | Action : Tutor : zoomin
+  7712 |     3.07 m |        3.8 s | Info   :  * Duplicate Lines | 4 x | Action : Tutor : zoomin
+  7712 |     3.07 m |        0.0 s | Action : Tutor : click:timestep
+  7771 |     3.09 m |        1.5 s | Action : Tutor : click:txtrealtime
+  7892 |     3.14 m |        3.1 s | Action : Tutor : dragview
+  7975 |     3.18 m |        2.2 s | Info   :  * Duplicate Lines | 72 x | Action : Tutor : dragview
+  7975 |     3.18 m |        0.0 s | Action : Tutor : zoomin
+  8017 |     3.20 m |        1.0 s | Info   :  * Duplicate Lines | 3 x | Action : Tutor : zoomin
+  8017 |     3.20 m |        0.0 s | Action : Tutor : dragview
+  8357 |     3.33 m |        7.8 s | Info   :  * Duplicate Lines | 197 x | Action : Tutor : dragview
+  8357 |     3.33 m |        0.0 s | Action : Tutor : click:timestep
+  8394 |     3.34 m |        0.9 s | Action : Tutor : click:txtrealtime
+  8678 |     3.45 m |        6.7 s | Action : Tutor : zoomin
+  8756 |     3.48 m |        1.9 s | Info   :  * Duplicate Lines | 1 x | Action : Tutor : zoomin
+  8756 |     3.48 m |        0.0 s | Action : Tutor : zoomout
+  8785 |     3.49 m |        0.7 s | Action : Tutor : dragview
+  8978 |     3.57 m |        4.5 s | Info   :  * Duplicate Lines | 52 x | Action : Tutor : dragview
+  8978 |     3.57 m |        0.0 s | Action : Tutor : zoomout
+  9034 |     3.59 m |        1.4 s | Info   :  * Duplicate Lines | 7 x | Action : Tutor : zoomout
+  9034 |     3.59 m |        0.0 s | Action : Tutor : dragview
+  9268 |     3.69 m |        6.0 s | Info   :  * Duplicate Lines | 149 x | Action : Tutor : dragview
+  9268 |     3.69 m |        0.0 s | Action : Tutor : click:timestep
+  9392 |     3.74 m |        3.0 s | Action : Tutor : dragview
+  9439 |     3.76 m |        1.2 s | Info   :  * Duplicate Lines | 25 x | Action : Tutor : dragview
+  9439 |     3.76 m |        0.0 s | Action : Tutor : zoomout
+  9459 |     3.77 m |        0.5 s | Info   :  * Duplicate Lines | 1 x | Action : Tutor : zoomout
+  9459 |     3.77 m |        0.0 s | Action : Tutor : dragview
+  9540 |     3.81 m |        2.3 s | Info   :  * Duplicate Lines | 42 x | Action : Tutor : dragview
+  9540 |     3.81 m |        0.0 s | Action : Tutor : click:timestep
+  9627 |     3.85 m |        2.2 s | Action : Tutor : zoomin
+  9684 |     3.87 m |        1.5 s | Info   :  * Duplicate Lines | 4 x | Action : Tutor : zoomin
+  9684 |     3.87 m |        0.0 s | Action : Tutor : dragview
+  9828 |     3.93 m |        3.5 s | Info   :  * Duplicate Lines | 109 x | Action : Tutor : dragview
+  9828 |     3.93 m |        0.0 s | Action : Tutor : zoomin
+  9891 |     3.95 m |        1.5 s | Info   :  * Duplicate Lines | 2 x | Action : Tutor : zoomin
+  9891 |     3.95 m |        0.0 s | Action : Tutor : dragview
+ 10121 |     4.04 m |        5.5 s | Info   :  * Duplicate Lines | 99 x | Action : Tutor : dragview
+ 10121 |     4.04 m |        0.0 s | Action : Tutor : zoomout
+ 10179 |     4.07 m |        1.5 s | Info   :  * Duplicate Lines | 2 x | Action : Tutor : zoomout
+ 10179 |     4.07 m |        0.0 s | Action : Tutor : dragview
+ 10610 |     4.24 m |       10.5 s | Info   :  * Duplicate Lines | 153 x | Action : Tutor : dragview
+ 10610 |     4.24 m |        0.0 s | Action : Tutor : click:timestep
+ 10684 |     4.27 m |        1.8 s | Action : Tutor : dragview
+ 10741 |     4.30 m |        1.3 s | Info   :  * Duplicate Lines | 46 x | Action : Tutor : dragview
+ 10741 |     4.30 m |        0.0 s | Action : Tutor : zoomout
+ 11240 |     4.50 m |       12.2 s | Info   :  * Duplicate Lines | 3 x | Action : Tutor : zoomout
+ 11240 |     4.50 m |        0.0 s | Action : Tutor : click:timestep
+ 17078 |     7.08 m |      155.1 s | Info   :  * Duplicate Lines | 10 x | Action : Tutor : click:timestep
+ 17078 |     7.08 m |        0.0 s | Action : Tutor : zoomout
+ 17244 |     7.17 m |        5.0 s | Info   :  * Duplicate Lines | 7 x | Action : Tutor : zoomout
+ 17244 |     7.17 m |        0.0 s | Action : Tutor : zoomin
+ 17449 |     7.27 m |        6.1 s | Info   :  * Duplicate Lines | 4 x | Action : Tutor : zoomin
+ 17449 |     7.27 m |        0.0 s | Action : Tutor : dragview
+ 17748 |     7.42 m |        8.8 s | Info   :  * Duplicate Lines | 183 x | Action : Tutor : dragview
+ 17748 |     7.42 m |        0.0 s | Action : Tutor : selectbody
+ 17748 |     7.42 m |        0.0 s | Action : Tutor : select:earth
+ 17748 |     7.42 m |        0.0 s | Action : Tutor : select:any
+ 17754 |     7.42 m |        0.2 s | Action : Tutor : setfocus
+ 17754 |     7.42 m |        0.0 s | Action : Tutor : focus:any
+ 17754 |     7.42 m |        0.0 s | Action : Tutor : focus:earth
+ 17804 |     7.44 m |        1.4 s | Action : Tutor : dragview
+ 17943 |     7.51 m |        4.3 s | Info   :  * Duplicate Lines | 103 x | Action : Tutor : dragview
+ 17943 |     7.51 m |        0.0 s | Action : Tutor : zoomout
+ 17982 |     7.54 m |        1.3 s | Info   :  * Duplicate Lines | 2 x | Action : Tutor : zoomout
+ 17982 |     7.54 m |        0.0 s | Action : Tutor : dragview
+ 18075 |     7.59 m |        3.2 s | Info   :  * Duplicate Lines | 9 x | Action : Tutor : dragview
+ 18075 |     7.59 m |        0.0 s | Action : Tutor : zoomout
+ 18089 |     7.60 m |        0.5 s | Info   :  * Duplicate Lines | 2 x | Action : Tutor : zoomout
+ 18089 |     7.60 m |        0.0 s | Action : Tutor : dragview
+ 18326 |     7.72 m |        7.2 s | Info   :  * Duplicate Lines | 108 x | Action : Tutor : dragview
+ 18326 |     7.72 m |        0.0 s | Action : Tutor : zoomout
+ 18355 |     7.73 m |        1.0 s | Info   :  * Duplicate Lines | 4 x | Action : Tutor : zoomout
+ 18355 |     7.73 m |        0.0 s | Action : Tutor : dragview
+ 18375 |     7.74 m |        0.6 s | Info   :  * Duplicate Lines | 11 x | Action : Tutor : dragview
+ 18375 |     7.74 m |        0.0 s | Action : Tutor : zoomout
+ 18455 |     7.78 m |        2.3 s | Info   :  * Duplicate Lines | 14 x | Action : Tutor : zoomout
+ 18455 |     7.78 m |        0.0 s | Action : Tutor : dragview
+ 18630 |     7.88 m |        5.9 s | Info   :  * Duplicate Lines | 18 x | Action : Tutor : dragview
+ 18630 |     7.88 m |        0.0 s | Action : Tutor : zoomin
+ 18664 |     7.90 m |        1.1 s | Info   :  * Duplicate Lines | 1 x | Action : Tutor : zoomin
+ 18664 |     7.90 m |        0.0 s | Action : Tutor : dragview
+ 18719 |     7.93 m |        1.8 s | Info   :  * Duplicate Lines | 44 x | Action : Tutor : dragview
+ 18719 |     7.93 m |        0.0 s | Action : Tutor : zoomin
+ 18741 |     7.94 m |        0.7 s | Info   :  * Duplicate Lines | 1 x | Action : Tutor : zoomin
+ 18741 |     7.94 m |        0.0 s | Action : Tutor : select:none
+ 18751 |     7.95 m |        0.3 s | Action : Tutor : dragview
+ 18776 |     7.96 m |        0.8 s | Info   :  * Duplicate Lines | 7 x | Action : Tutor : dragview
+ 18776 |     7.96 m |        0.0 s | Action : Tutor : selectbody
+ 18776 |     7.96 m |        0.0 s | Action : Tutor : select:any
+ 18780 |     7.96 m |        0.1 s | Action : Tutor : setfocus
+ 18780 |     7.96 m |        0.0 s | Action : Tutor : focus:any
+ 18806 |     7.98 m |        0.9 s | Action : Tutor : dragview
+ 18873 |     8.01 m |        2.2 s | Info   :  * Duplicate Lines | 24 x | Action : Tutor : dragview
+ 18873 |     8.01 m |        0.0 s | Action : Tutor : selectbody
+ 18873 |     8.01 m |        0.0 s | Action : Tutor : select:any
+ 18877 |     8.02 m |        0.1 s | Action : Tutor : setfocus
+ 18877 |     8.02 m |        0.0 s | Action : Tutor : focus:any
+ 18903 |     8.03 m |        1.0 s | Action : Tutor : zoomin
+ 19046 |     8.11 m |        4.8 s | Info   :  * Duplicate Lines | 8 x | Action : Tutor : zoomin
+ 19046 |     8.11 m |        0.0 s | Action : Tutor : selectbody
+ 19046 |     8.11 m |        0.0 s | Action : Tutor : select:any
+ 19050 |     8.12 m |        0.1 s | Action : Tutor : setfocus
+ 19050 |     8.12 m |        0.0 s | Action : Tutor : focus:any
+ 19050 |     8.12 m |        0.0 s | Action : Tutor : focus:jupiter
+ 19069 |     8.13 m |        0.7 s | Action : Tutor : dragview
+ 19344 |     8.28 m |        8.9 s | Info   :  * Duplicate Lines | 174 x | Action : Tutor : dragview
+ 19344 |     8.28 m |        0.0 s | Action : Tutor : selectbody
+ 19344 |     8.28 m |        0.0 s | Action : Tutor : select:any
+ 19361 |     8.29 m |        0.6 s | Action : Tutor : setfocus
+ 19361 |     8.29 m |        0.0 s | Action : Tutor : focus:any
+ 19365 |     8.29 m |        0.1 s | Action : Tutor : select:none
+ 19384 |     8.30 m |        0.7 s | Action : Tutor : dragview
+ 19498 |     8.36 m |        3.7 s | Info   :  * Duplicate Lines | 39 x | Action : Tutor : dragview
+ 19498 |     8.36 m |        0.0 s | Action : Tutor : click:openviewpanel
+ 19566 |     8.40 m |        2.2 s | Action : Tutor : click:...
+ 19672 |     8.48 m |        4.5 s | Action : Click : Live Mode
+ 19672 |     8.48 m |        0.0 s | Action : Tutor : click:livemode
+ 19673 |     8.48 m |        0.5 s | Action : Tutor : dragview
+ 19788 |     8.53 m |        2.7 s | Action : Tutor : zoomin
+ 19858 |     8.56 m |        1.7 s | Info   :  * Duplicate Lines | 3 x | Action : Tutor : zoomin
+ 19858 |     8.56 m |        0.0 s | Action : Tutor : dragview
+ 19938 |     8.59 m |        1.8 s | Info   :  * Duplicate Lines | 19 x | Action : Tutor : dragview
+ 19938 |     8.59 m |        0.0 s | Action : Tutor : selectbody
+ 19938 |     8.59 m |        0.0 s | Action : Tutor : select:any
+ 19944 |     8.59 m |        0.1 s | Action : Tutor : setfocus
+ 19944 |     8.59 m |        0.0 s | Action : Tutor : focus:any
+ 19976 |     8.60 m |        0.7 s | Action : Tutor : zoomin
+ 20125 |     8.65 m |        2.8 s | Info   :  * Duplicate Lines | 8 x | Action : Tutor : zoomin
+ 20125 |     8.65 m |        0.0 s | Action : Tutor : dragview
+ 20323 |     8.71 m |        3.6 s | Info   :  * Duplicate Lines | 173 x | Action : Tutor : dragview
+ 20323 |     8.71 m |        0.0 s | Action : Tutor : zoomout
+ 20406 |     8.73 m |        1.5 s | Info   :  * Duplicate Lines | 9 x | Action : Tutor : zoomout
+ 20406 |     8.73 m |        0.0 s | Action : Tutor : dragview
+ 20617 |     8.80 m |        4.1 s | Info   :  * Duplicate Lines | 123 x | Action : Tutor : dragview
+ 20617 |     8.80 m |        0.0 s | Action : Tutor : selectbody
+ 20617 |     8.80 m |        0.0 s | Action : Tutor : select:any
+ 20625 |     8.80 m |        0.2 s | Action : Tutor : setfocus
+ 20625 |     8.80 m |        0.0 s | Action : Tutor : focus:any
+ 20671 |     8.82 m |        0.8 s | Action : Tutor : dragview
+ 21052 |     8.94 m |        7.6 s | Info   :  * Duplicate Lines | 196 x | Action : Tutor : dragview
+ 21052 |     8.94 m |        0.0 s | Action : Tutor : click:...
+ 21144 |     8.98 m |        2.1 s | Action : Click : Live Mode
+ 21144 |     8.98 m |        0.0 s | Action : Tutor : click:livemode
+ 21146 |     8.98 m |        0.0 s | Action : Tutor : select:none
+ 21304 |     8.99 m |        0.6 s | Action : Tutor : zoomin
+ 21447 |     9.00 m |        0.7 s | Info   :  * Duplicate Lines | 3 x | Action : Tutor : zoomin
+ 21447 |     9.00 m |        0.0 s | Action : Tutor : dragview
+ 21624 |     9.02 m |        0.9 s | Info   :  * Duplicate Lines | 108 x | Action : Tutor : dragview
+ 21624 |     9.02 m |        0.0 s | Action : Tutor : zoomout
+ 22718 |     9.09 m |        4.4 s | Info   :  * Duplicate Lines | 1 x | Action : Tutor : zoomout
+ 22718 |     9.09 m |        0.0 s | Action : Tutor : click:timestep
+ 23035 |     9.12 m |        1.6 s | Action : Tutor : dragview
+ 23238 |     9.14 m |        1.3 s | Info   :  * Duplicate Lines | 164 x | Action : Tutor : dragview
+ 23238 |     9.14 m |        0.0 s | Action : Tutor : zoomout
+ 24393 |     9.32 m |       11.1 s | Info   :  * Duplicate Lines | 12 x | Action : Tutor : zoomout
+ 24393 |     9.32 m |        0.0 s | Action : Tutor : zoomin
+ 24510 |     9.36 m |        2.2 s | Info   :  * Duplicate Lines | 2 x | Action : Tutor : zoomin
+ 24510 |     9.36 m |        0.0 s | Action : Tutor : click:timestep
+ 24571 |     9.38 m |        1.1 s | Action : Tutor : dragview
+ 24610 |     9.39 m |        0.7 s | Info   :  * Duplicate Lines | 20 x | Action : Tutor : dragview
+ 24610 |     9.39 m |        0.0 s | Action : Tutor : zoomout
+ 24689 |     9.42 m |        1.7 s | Info   :  * Duplicate Lines | 2 x | Action : Tutor : zoomout
+ 24689 |     9.42 m |        0.0 s | Action : Tutor : dragview
+ 24722 |     9.43 m |        0.7 s | Info   :  * Duplicate Lines | 23 x | Action : Tutor : dragview
+ 24722 |     9.43 m |        0.0 s | Action : Tutor : zoomin
+ 24756 |     9.44 m |        0.7 s | Info   :  * Duplicate Lines | 2 x | Action : Tutor : zoomin
+ 24756 |     9.44 m |        0.0 s | Action : Tutor : dragview
+ 24851 |     9.47 m |        1.7 s | Info   :  * Duplicate Lines | 39 x | Action : Tutor : dragview
+ 24851 |     9.47 m |        0.0 s | Action : Tutor : zoomout
+ 24917 |     9.49 m |        1.2 s | Action : Tutor : dragview
+ 25603 |     9.71 m |       13.0 s | Info   :  * Duplicate Lines | 318 x | Action : Tutor : dragview
+ 25603 |     9.71 m |        0.0 s | Action : Tutor : selectbody
+ 25603 |     9.71 m |        0.0 s | Action : Tutor : select:earth
+ 25603 |     9.71 m |        0.0 s | Action : Tutor : select:any
+ 25610 |     9.71 m |        0.2 s | Action : Tutor : setfocus
+ 25610 |     9.71 m |        0.0 s | Action : Tutor : focus:any
+ 25610 |     9.71 m |        0.0 s | Action : Tutor : focus:earth
+ 25625 |     9.72 m |        0.4 s | Action : Tutor : zoomin
+ 26009 |     9.84 m |        7.2 s | Info   :  * Duplicate Lines | 7 x | Action : Tutor : zoomin
+ 26009 |     9.84 m |        0.0 s | Action : Tutor : dragview
+ 26070 |     9.86 m |        1.2 s | Info   :  * Duplicate Lines | 41 x | Action : Tutor : dragview
+ 26070 |     9.86 m |        0.0 s | Action : Tutor : zoomin
+ 26097 |     9.87 m |        0.5 s | Action : Tutor : dragview
+ 26277 |     9.93 m |        3.6 s | Info   :  * Duplicate Lines | 77 x | Action : Tutor : dragview
+ 26277 |     9.93 m |        0.0 s | Action : Tutor : click:timestep
+ 26449 |     9.98 m |        3.4 s | Info   :  * Duplicate Lines | 1 x | Action : Tutor : click:timestep
+ 26449 |     9.98 m |        0.0 s | Action : Tutor : click:txtrealtime
+ 26505 |     10.0 m |        1.1 s | Action : Tutor : click:txtrealtime:realtime
+ 26708 |     10.1 m |        4.0 s | Action : Tutor : click:timestep
+ 26769 |     10.1 m |        1.3 s | Action : Tutor : click:txtrealtime
+ 26866 |     10.1 m |        1.9 s | Action : Tutor : click:timestep
+ 26891 |     10.1 m |        0.5 s | Action : Tutor : click:txtrealtime
+ 27364 |     10.3 m |        9.2 s | Action : Tutor : click:...
+ 27581 |     10.4 m |        5.0 s | Action : Click : Live Mode
+ 27581 |     10.4 m |        0.0 s | Action : Tutor : click:livemode
+ 27676 |     10.4 m |        1.0 s | Action : Tutor : zoomin
+ 28049 |     10.5 m |        5.2 s | Info   :  * Duplicate Lines | 6 x | Action : Tutor : zoomin
+ 28049 |     10.5 m |        0.0 s | Action : Tutor : zoomout
+ 28192 |     10.5 m |        3.2 s | Info   :  * Duplicate Lines | 10 x | Action : Tutor : zoomout
+ 28192 |     10.5 m |        0.0 s | Action : Tutor : zoomin
+ 28584 |     10.7 m |       11.5 s | Info   :  * Duplicate Lines | 4 x | Action : Tutor : zoomin
+ 28584 |     10.7 m |        0.0 s | Action : Tutor : dragview
+ 28803 |     10.8 m |        6.7 s | Info   :  * Duplicate Lines | 148 x | Action : Tutor : dragview
+ 28803 |     10.8 m |        0.0 s | Action : Tutor : selectbody
+ 28803 |     10.8 m |        0.0 s | Action : Tutor : select:any
+ 28807 |     10.8 m |        0.1 s | Action : Tutor : setfocus
+ 28807 |     10.8 m |        0.0 s | Action : Tutor : focus:any
+ 28842 |     10.8 m |        0.9 s | Action : Tutor : dragview
+ 29255 |     11.0 m |       11.2 s | Info   :  * Duplicate Lines | 206 x | Action : Tutor : dragview
+ 29255 |     11.0 m |        0.0 s | Action : Tutor : click:timestep
+ 29334 |     11.1 m |        2.5 s | Info   :  * Duplicate Lines | 1 x | Action : Tutor : click:timestep
+ 29334 |     11.1 m |        0.0 s | Action : Tutor : select:none
+ 29355 |     11.1 m |        0.7 s | Action : Tutor : dragview
+ 29504 |     11.1 m |        4.1 s | Info   :  * Duplicate Lines | 112 x | Action : Tutor : dragview
+ 29504 |     11.1 m |        0.0 s | Action : Tutor : click:timestep
+ 29530 |     11.2 m |        0.6 s | Action : Tutor : click:txtrealtime
+ 29585 |     11.2 m |        1.5 s | Action : Tutor : click:txtrealtime:realtime
+ 29610 |     11.2 m |        0.8 s | Action : Tutor : dragview
+ 29830 |     11.3 m |        7.0 s | Info   :  * Duplicate Lines | 79 x | Action : Tutor : dragview
+ 29830 |     11.3 m |        0.0 s | Action : Tutor : click:timestep
+ 29874 |     11.3 m |        1.2 s | Action : Tutor : click:txtrealtime
+ 30060 |     11.4 m |        4.3 s | Action : Tutor : selectbody
+ 30060 |     11.4 m |        0.0 s | Action : Tutor : select:any
+ 30066 |     11.4 m |        0.1 s | Action : Tutor : setfocus
+ 30066 |     11.4 m |        0.0 s | Action : Tutor : focus:any
+ 30066 |     11.4 m |        0.0 s | Action : Tutor : focus:jupiter
+ 30096 |     11.4 m |        0.8 s | Action : Tutor : dragview
+ 30556 |     11.6 m |       11.0 s | Info   :  * Duplicate Lines | 199 x | Action : Tutor : dragview
+ 30556 |     11.6 m |        0.0 s | Action : Tutor : zoomin
+ 30611 |     11.6 m |        1.2 s | Info   :  * Duplicate Lines | 1 x | Action : Tutor : zoomin
+ 30611 |     11.6 m |        0.0 s | Action : Tutor : dragview
+ 31007 |     11.8 m |        8.8 s | Info   :  * Duplicate Lines | 73 x | Action : Tutor : dragview
+ 31007 |     11.8 m |        0.0 s | Action : Tutor : zoomout
+ 31034 |     11.8 m |        0.6 s | Info   :  * Duplicate Lines | 1 x | Action : Tutor : zoomout
+ 31034 |     11.8 m |        0.0 s | Action : Tutor : dragview
+ 31077 |     11.8 m |        1.0 s | Info   :  * Duplicate Lines | 14 x | Action : Tutor : dragview
+ 31077 |     11.8 m |        0.0 s | Action : Tutor : zoomout
+ 31161 |     11.8 m |        2.0 s | Info   :  * Duplicate Lines | 3 x | Action : Tutor : zoomout
+ 31161 |     11.8 m |        0.0 s | Action : Tutor : dragview
+ 31323 |     11.9 m |        4.0 s | Info   :  * Duplicate Lines | 92 x | Action : Tutor : dragview
+ 31323 |     11.9 m |        0.0 s | Action : Tutor : click:timestep
+ 31436 |     11.9 m |        2.9 s | Action : Tutor : zoomin
+ 31507 |     12.0 m |        1.7 s | Info   :  * Duplicate Lines | 3 x | Action : Tutor : zoomin
+ 31507 |     12.0 m |        0.0 s | Action : Tutor : dragview
+ 32134 |     12.2 m |       15.3 s | Info   :  * Duplicate Lines | 42 x | Action : Tutor : dragview
+ 32134 |     12.2 m |        0.0 s | Action : Tutor : click:...
+ 32364 |     12.3 m |        6.9 s | Action : Click : Live Mode
+ 32364 |     12.3 m |        0.0 s | Action : Tutor : click:livemode
+ 32366 |     12.3 m |        0.1 s | Action : Tutor : select:none
+ 32395 |     12.4 m |        1.2 s | Action : Tutor : zoomin
+ 32413 |     12.4 m |        0.7 s | Action : Tutor : dragview
+ 32460 |     12.4 m |        1.9 s | Info   :  * Duplicate Lines | 16 x | Action : Tutor : dragview
+ 32460 |     12.4 m |        0.0 s | Action : Tutor : zoomin
+ 32476 |     12.4 m |        0.6 s | Action : Tutor : dragview
+ 32553 |     12.5 m |        3.0 s | Info   :  * Duplicate Lines | 22 x | Action : Tutor : dragview
+ 32553 |     12.5 m |        0.0 s | Action : Tutor : zoomout
+ 32741 |     12.6 m |        7.6 s | Action : Tutor : dragview
+ 33386 |     13.0 m |       26.1 s | Info   :  * Duplicate Lines | 129 x | Action : Tutor : dragview
+ 33386 |     13.0 m |        0.0 s | Action : Tutor : zoomin
+ 33963 |     13.4 m |       22.6 s | Info   :  * Duplicate Lines | 1 x | Action : Tutor : zoomin
+ 33963 |     13.4 m |        0.0 s | Action : Tutor : zoomout
+ 33984 |     13.4 m |        0.9 s | Info   :  * Duplicate Lines | 2 x | Action : Tutor : zoomout
+ 33984 |     13.4 m |        0.0 s | Action : Tutor : dragview
+ 33999 |     13.4 m |        0.6 s | Info   :  * Duplicate Lines | 8 x | Action : Tutor : dragview
+ 33999 |     13.4 m |        0.0 s | Action : Tutor : zoomout
+ 34025 |     13.5 m |        1.1 s | Info   :  * Duplicate Lines | 5 x | Action : Tutor : zoomout
+ 34025 |     13.5 m |        0.0 s | Action : Tutor : dragview
+ 34046 |     13.5 m |        0.9 s | Info   :  * Duplicate Lines | 2 x | Action : Tutor : dragview
+ 34046 |     13.5 m |        0.0 s | Action : Tutor : zoomin
+ 34086 |     13.5 m |        1.7 s | Info   :  * Duplicate Lines | 4 x | Action : Tutor : zoomin
+ 34086 |     13.5 m |        0.0 s | Action : Tutor : dragview
+ 34497 |     13.8 m |       17.1 s | Info   :  * Duplicate Lines | 12 x | Action : Tutor : dragview
+ 34497 |     13.8 m |        0.0 s | Action : Tutor : click:timestep
+ 34766 |     14.0 m |       10.6 s | Info   :  * Duplicate Lines | 1 x | Action : Tutor : click:timestep
+ 34766 |     14.0 m |        0.0 s | Action : Tutor : click:expandsimpanel
+ 34991 |     14.1 m |        8.8 s | Info   :  * Duplicate Lines | 1 x | Action : Tutor : click:expandsimpanel
+ 34991 |     14.1 m |        0.0 s | Action : Tutor : dragview
+ 35059 |     14.1 m |        2.8 s | Info   :  * Duplicate Lines | 44 x | Action : Tutor : dragview
+ 35059 |     14.1 m |        0.0 s | Action : Tutor : zoomout
+ 35171 |     14.2 m |        4.5 s | Info   :  * Duplicate Lines | 19 x | Action : Tutor : zoomout
+ 35171 |     14.2 m |        0.0 s | Action : Tutor : zoomin
+ 35239 |     14.3 m |        2.6 s | Info   :  * Duplicate Lines | 8 x | Action : Tutor : zoomin
+ 35239 |     14.3 m |        0.0 s | Action : Tutor : zoomout
+ 35272 |     14.3 m |        1.1 s | Info   :  * Duplicate Lines | 4 x | Action : Tutor : zoomout
+ 35272 |     14.3 m |        0.0 s | Action : Tutor : dragview
+ 35297 |     14.3 m |        0.9 s | Info   :  * Duplicate Lines | 17 x | Action : Tutor : dragview
+ 35297 |     14.3 m |        0.0 s | Action : Tutor : zoomout
+ 35326 |     14.3 m |        1.1 s | Info   :  * Duplicate Lines | 3 x | Action : Tutor : zoomout
+ 35326 |     14.3 m |        0.0 s | Action : Tutor : dragview
+ 36230 |     14.9 m |       34.3 s | Info   :  * Duplicate Lines | 51 x | Action : Tutor : dragview
+ 36230 |     14.9 m |        0.0 s | Action : Tutor : click:...
+ 36375 |     15.0 m |        6.9 s | Action : Click : Live Mode
+ 36375 |     15.0 m |        0.0 s | Action : Tutor : click:livemode
+ 36391 |     15.0 m |        0.9 s | Action : Tutor : zoomin
+ 36502 |     15.1 m |        4.4 s | Info   :  * Duplicate Lines | 12 x | Action : Tutor : zoomin
+ 36502 |     15.1 m |        0.0 s | Action : Tutor : zoomout
+ 36564 |     15.1 m |        2.3 s | Info   :  * Duplicate Lines | 5 x | Action : Tutor : zoomout
+ 36564 |     15.1 m |        0.0 s | Action : Tutor : dragview
+ 36589 |     15.1 m |        1.0 s | Info   :  * Duplicate Lines | 19 x | Action : Tutor : dragview
+ 36589 |     15.1 m |        0.0 s | Action : Tutor : zoomout
+ 36639 |     15.2 m |        1.9 s | Info   :  * Duplicate Lines | 4 x | Action : Tutor : zoomout
+ 36639 |     15.2 m |        0.0 s | Action : Tutor : dragview
+ 36659 |     15.2 m |        0.7 s | Info   :  * Duplicate Lines | 9 x | Action : Tutor : dragview
+ 36659 |     15.2 m |        0.0 s | Action : Tutor : zoomout
+ 36762 |     15.3 m |        4.4 s | Info   :  * Duplicate Lines | 2 x | Action : Tutor : zoomout
+ 36762 |     15.3 m |        0.0 s | Action : Tutor : dragview
+ 36912 |     15.4 m |        6.4 s | Info   :  * Duplicate Lines | 77 x | Action : Tutor : dragview
+ 36912 |     15.4 m |        0.0 s | Action : Tutor : zoomout
+ 37070 |     15.5 m |        8.2 s | Info   :  * Duplicate Lines | 2 x | Action : Tutor : zoomout
+ 37070 |     15.5 m |        0.0 s | Action : Tutor : selectbody
+ 37070 |     15.5 m |        0.0 s | Action : Tutor : select:any
+ 37074 |     15.5 m |        0.2 s | Action : Tutor : setfocus
+ 37074 |     15.5 m |        0.0 s | Action : Tutor : focus:any
+ 37094 |     15.5 m |        1.0 s | Action : Tutor : zoomin
+ 37274 |     15.7 m |        7.6 s | Info   :  * Duplicate Lines | 2 x | Action : Tutor : zoomin
+ 37274 |     15.7 m |        0.0 s | Action : Tutor : zoomout
+ 37465 |     15.8 m |        8.3 s | Action : Tutor : zoomin
+ 37776 |     16.0 m |       11.4 s | Info   :  * Duplicate Lines | 24 x | Action : Tutor : zoomin
+ 37776 |     16.0 m |        0.0 s | Action : Tutor : selectbody
+ 37776 |     16.0 m |        0.0 s | Action : Tutor : select:earth
+ 37776 |     16.0 m |        0.0 s | Action : Tutor : select:any
+ 37780 |     16.0 m |        0.1 s | Action : Tutor : setfocus
+ 37780 |     16.0 m |        0.0 s | Action : Tutor : focus:any
+ 37780 |     16.0 m |        0.0 s | Action : Tutor : focus:earth
+ 37789 |     16.0 m |        0.3 s | Action : Tutor : zoomout
+ 38388 |     16.4 m |       23.1 s | Info   :  * Duplicate Lines | 32 x | Action : Tutor : zoomout
+ 38388 |     16.4 m |        0.0 s | Action : Tutor : zoomin
+ 38460 |     16.4 m |        3.1 s | Info   :  * Duplicate Lines | 11 x | Action : Tutor : zoomin
+ 38460 |     16.4 m |        0.0 s | Action : Tutor : zoomout
+ 38826 |     16.7 m |       14.0 s | Info   :  * Duplicate Lines | 5 x | Action : Tutor : zoomout
+ 38826 |     16.7 m |        0.0 s | Action : Tutor : click:timestep
+ 38846 |     16.7 m |        0.8 s | Action : Tutor : click:txtrealtime
+ 38862 |     16.7 m |        0.6 s | Action : Tutor : click:timestep
+ 40001 |     17.6 m |       53.6 s | Info   :  * Duplicate Lines | 1 x | Action : Tutor : click:timestep
+ 40001 |     17.6 m |        0.0 s | Action : Tutor : select:none
+ 40017 |     17.6 m |        1.0 s | Action : Tutor : zoomout
+ 40141 |     17.8 m |        9.4 s | Info   :  * Duplicate Lines | 20 x | Action : Tutor : zoomout
+ 40141 |     17.8 m |        0.0 s | Action : Tutor : selectbody
+ 40141 |     17.8 m |        0.0 s | Action : Tutor : select:any
+ 40143 |     17.8 m |        0.2 s | Action : Tutor : setfocus
+ 40143 |     17.8 m |        0.0 s | Action : Tutor : focus:any
+ 40383 |     18.1 m |       21.4 s | Action : Tutor : zoomin
+ 40397 |     18.1 m |        1.3 s | Info   :  * Duplicate Lines | 1 x | Action : Tutor : zoomin
+ 40397 |     18.1 m |        0.0 s | Action : Tutor : click:timestep
+ 40428 |     18.2 m |        2.6 s | Action : Tutor : zoomin
+ 40508 |     18.3 m |        6.2 s | Info   :  * Duplicate Lines | 4 x | Action : Tutor : zoomin
+ 40508 |     18.3 m |        0.0 s | Action : Tutor : selectbody
+ 40508 |     18.3 m |        0.0 s | Action : Tutor : select:any
+ 40510 |     18.3 m |        0.2 s | Action : Tutor : setfocus
+ 40510 |     18.3 m |        0.0 s | Action : Tutor : focus:any
+ 40521 |     18.3 m |        0.9 s | Action : Tutor : click:timestep
+ 40540 |     18.3 m |        1.4 s | Action : Tutor : zoomout
+ 40601 |     18.4 m |        5.4 s | Info   :  * Duplicate Lines | 6 x | Action : Tutor : zoomout
+ 40601 |     18.4 m |        0.0 s | Action : Tutor : zoomin
+ 40702 |     18.5 m |        8.0 s | Info   :  * Duplicate Lines | 10 x | Action : Tutor : zoomin
+ 40702 |     18.5 m |        0.0 s | Action : Tutor : click:...
+ 40760 |     18.6 m |        5.3 s | Action : Click : Live Mode
+ 40760 |     18.6 m |        0.0 s | Action : Tutor : click:livemode
+ 41422 |     18.8 m |        9.0 s | Action : Tutor : zoomin
+ 41514 |     18.8 m |        1.5 s | Info   :  * Duplicate Lines | 3 x | Action : Tutor : zoomin
+ 41514 |     18.8 m |        0.0 s | Action : Tutor : dragview
+ 41700 |     18.9 m |        3.4 s | Info   :  * Duplicate Lines | 165 x | Action : Tutor : dragview
+ 41700 |     18.9 m |        0.0 s | Action : Tutor : zoomout
+ 42046 |     19.0 m |        8.5 s | Info   :  * Duplicate Lines | 23 x | Action : Tutor : zoomout
+ 42046 |     19.0 m |        0.0 s | Action : Tutor : zoomin
+ 42386 |     19.2 m |        9.8 s | Info   :  * Duplicate Lines | 8 x | Action : Tutor : zoomin
+ 42386 |     19.2 m |        0.0 s | Action : Tutor : zoomout
+ 42493 |     19.2 m |        2.8 s | Info   :  * Duplicate Lines | 10 x | Action : Tutor : zoomout
+ 42493 |     19.2 m |        0.0 s | Action : Tutor : zoomin
+ 42737 |     19.3 m |        7.5 s | Info   :  * Duplicate Lines | 3 x | Action : Tutor : zoomin
+ 42737 |     19.3 m |        0.0 s | Action : Tutor : zoomout

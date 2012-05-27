@@ -1,0 +1,168 @@
+03-31-2012 20:29:39 | --------------------------------------------
+03-31-2012 20:29:39 | Truevision3D Debug/Log File
+03-31-2012 20:29:39 | --------------------------------------------
+03-31-2012 20:29:39 | Engine Version : 6.5
+03-31-2012 20:29:39 | ENGINE INFO : DLL Compilation time Nov 11 2009 23:25:02
+03-31-2012 20:29:39 | DEVICE INIT : Initialize Depth
+03-31-2012 20:29:39 | DEVICE INIT : Initializing the device in windowed mode, with a render surface size of 1280x720, format 22, depthbuffer 75
+03-31-2012 20:29:39 | VIEWPORT MANAGER : Main viewport initialization
+03-31-2012 20:29:39 | VIEWPORT MANAGER : Main viewport initialized (1280x720)
+03-31-2012 20:29:39 | DEVICE INIT : Initialization successful !
+03-31-2012 20:29:39 | DEVICE INFO :  3D Card : NVIDIA GeForce GTS 450  | Card ID : 3524 | Driver ID : 796005
+03-31-2012 20:29:39 | DEVICE INFO : Available texture memory : 4058 MB
+03-31-2012 20:29:39 | DEVICE INFO : Vertex Shaders 3.0 supported in hardware.
+03-31-2012 20:29:39 | DEVICE INFO : Pixel Shaders 3.0 supported in hardware.
+03-31-2012 20:29:39 | DEVICE INFO : Driver used is a DirectX9-level driver 'nvd3dum.dll'. Excellent
+03-31-2012 20:29:39 | DEVICE INFO : Card Type Geforce6xxx/7xxx/8xxx/ATIRadeonX1xxx  Level card, third generation of programmable card
+03-31-2012 20:29:39 | TEXTURE MANAGER : Format of alpha texture changed to DXT1.
+03-31-2012 20:29:39 | TEXTURE MANAGER : Format of non-alpha texture changed to DXT1.
+03-31-2012 20:29:39 | TEXTURE MANAGER : Successfully created a render surface 1280x720 on slot 2
+03-31-2012 20:29:39 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\graphics\Calibri 12.dds' successful 'NONAME' on index 3 
+03-31-2012 20:29:39 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\graphics\Calibri 9.dds' successful 'NONAME' on index 4 
+03-31-2012 20:29:39 | TEXTURE MANAGER : Format of alpha texture changed to 21.
+03-31-2012 20:29:39 | TEXTURE MANAGER : Format of non-alpha texture changed to 22.
+03-31-2012 20:29:39 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\graphics\ui-logos.dds' successful 'NONAME' on index 5 
+03-31-2012 20:29:40 | TEXTURE MANAGER : Loading of '##STREAM:' successful 'stoplight' on index 6 
+03-31-2012 20:29:40 | TEXTURE MANAGER : Loading of '##STREAM:' successful 'stoplightbw' on index 7 
+03-31-2012 20:29:40 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\graphics\Calibri 10.dds' successful 'NONAME' on index 8 
+03-31-2012 20:29:41 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\graphics\Calibri 11.dds' successful 'NONAME' on index 9 
+03-31-2012 20:29:41 | TEXTURE MANAGER : Creation of texture 'webpageawesome' succeeded, format 21, size (352x660)
+03-31-2012 20:29:41 | TEXTURE MANAGER : Creation of texture 'webpageawesomealt' succeeded, format 21, size (352x660)
+03-31-2012 20:29:41 | TEXTURE MANAGER : Creation of texture 'webpagetutor' succeeded, format 21, size (352x100)
+03-31-2012 20:29:41 | TEXTURE MANAGER : Creation of texture 'webpagetutoralt' succeeded, format 21, size (352x100)
+03-31-2012 20:29:41 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\graphics\Calibri 8.dds' successful 'NONAME' on index 14 
+03-31-2012 20:29:41 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\graphics\Calibri 13.dds' successful 'NONAME' on index 15 
+03-31-2012 20:29:41 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\graphics\Calibri 14.dds' successful 'NONAME' on index 16 
+03-31-2012 20:29:41 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\graphics\Calibri 15.dds' successful 'NONAME' on index 17 
+03-31-2012 20:29:41 | SHADER MANAGER : Shader 'lighting' successfully created from string.
+03-31-2012 20:29:41 | TEXTURE MANAGER : Successfully created a render surface 512x512 on slot 18
+03-31-2012 20:29:41 | TEXTURE MANAGER : Successfully created a render surface 512x512 on slot 19
+03-31-2012 20:29:41 | TEXTURE MANAGER : Successfully created a render surface 512x512 on slot 20
+03-31-2012 20:29:41 | TEXTURE MANAGER : Format of alpha texture changed to DXT1.
+03-31-2012 20:29:41 | TEXTURE MANAGER : Format of non-alpha texture changed to DXT1.
+03-31-2012 20:29:42 | TEXTURE MANAGER : Loading of '##STREAM:' successful 'MilkyWay1' on index 21 
+03-31-2012 20:29:42 | TEXTURE MANAGER : Loading of '##STREAM:' successful 'MilkyWay2' on index 22 
+03-31-2012 20:29:42 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\TrailFade.dds' successful 'TrailFade' on index 23 
+03-31-2012 20:29:42 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\ParticleMark.dds' successful 'Particle' on index 24 
+03-31-2012 20:29:42 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\ParticleSolid.dds' successful 'ParticleSolid' on index 25 
+03-31-2012 20:29:42 | STREAM MANAGER : Couldn't open file 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\galaxycluster.dds'
+03-31-2012 20:29:42 | TEXTURE MANAGER : Couldn't find the texture file c:\program files (x86)\steam\steamapps\common\universe sandbox\media\galaxycluster.dds.
+03-31-2012 20:29:42 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\starpoint.dds' successful 'starpoint' on index 26 
+03-31-2012 20:29:42 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\graphics\ui-elements.dds' successful 'ui-elements.dds' on index 27 
+03-31-2012 20:29:42 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\graphics\ui-icons.dds' successful 'ui-icons.dds' on index 28 
+03-31-2012 20:29:43 | MINI MESH MANAGER : Minimesh created with 1501 items
+03-31-2012 20:29:43 | CTVMiniMesh::EnableMinimesh : Index Out Of Range  1501
+03-31-2012 20:29:43 | MESH MANAGER : Loading of mesh file 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\skydome.x' succeeded in 16 ms ( 528 faces, 334 vertices ) ID 5
+03-31-2012 20:29:44 | TEXTURE MANAGER : Format of alpha texture changed to 21.
+03-31-2012 20:29:44 | TEXTURE MANAGER : Format of non-alpha texture changed to 22.
+03-31-2012 20:29:44 | TEXTURE MANAGER : Format of alpha texture changed to DXT1.
+03-31-2012 20:29:44 | TEXTURE MANAGER : Format of non-alpha texture changed to DXT1.
+03-31-2012 20:29:44 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\starglow.dds' successful 'StarGlow' on index 29 
+03-31-2012 20:29:44 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\ImpactMark.dds' successful 'ImpactMark' on index 30 
+03-31-2012 20:29:44 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\Saturn-RingColors.dds' successful 'SaturnRingColors' on index 31 
+03-31-2012 20:29:44 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\Gradient-Rainbow.dds' successful 'GradientRainbow' on index 32 
+03-31-2012 20:29:44 | TEXTURE MANAGER : Format of alpha texture changed to 21.
+03-31-2012 20:29:44 | TEXTURE MANAGER : Format of non-alpha texture changed to 22.
+03-31-2012 20:29:44 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\Gradient-Awesome.jpg' successful 'GradientAwesome' on index 33 
+03-31-2012 20:29:44 | TEXTURE MANAGER : Format of alpha texture changed to DXT1.
+03-31-2012 20:29:44 | TEXTURE MANAGER : Format of non-alpha texture changed to DXT1.
+03-31-2012 20:29:44 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\InterlacedCheck.png' successful 'InterlacedCheck' on index 34 
+03-31-2012 20:29:44 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\InterlacedRow.png' successful 'InterlacedRow' on index 35 
+03-31-2012 20:29:44 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\InterlacedColumn.png' successful 'InterlacedColumn' on index 36 
+03-31-2012 20:29:44 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\star.dds' successful 'star.dds' on index 37 
+03-31-2012 20:29:44 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\MoonDiffuse.dds' successful 'MoonDiffuse.dds' on index 38 
+03-31-2012 20:29:45 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\MoonNormal.dds' successful 'MoonNormal.dds' on index 39 
+03-31-2012 20:29:45 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\mercury.dds' successful 'mercury.dds' on index 40 
+03-31-2012 20:29:45 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\venus.dds' successful 'venus.dds' on index 41 
+03-31-2012 20:29:45 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\earth.dds' successful 'earth.dds' on index 42 
+03-31-2012 20:29:46 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\mars.dds' successful 'mars.dds' on index 43 
+03-31-2012 20:29:47 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\jupiter.dds' successful 'jupiter.dds' on index 44 
+03-31-2012 20:29:47 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\saturn.dds' successful 'saturn.dds' on index 45 
+03-31-2012 20:29:47 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\uranus.dds' successful 'uranus.dds' on index 46 
+03-31-2012 20:29:47 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\neptune.dds' successful 'neptune.dds' on index 47 
+03-31-2012 20:29:47 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\jupiter-europa.dds' successful 'jupiter-europa.dds' on index 48 
+03-31-2012 20:29:47 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\jupiter-ganymede.dds' successful 'jupiter-ganymede.dds' on index 49 
+03-31-2012 20:29:47 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\jupiter-io.dds' successful 'jupiter-io.dds' on index 50 
+03-31-2012 20:29:47 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\saturn-mimas.dds' successful 'saturn-mimas.dds' on index 51 
+03-31-2012 20:29:47 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\jupiter-callisto.dds' successful 'jupiter-callisto.dds' on index 52 
+03-31-2012 20:29:47 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\saturn-titan.dds' successful 'saturn-titan.dds' on index 53 
+03-31-2012 20:29:47 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\saturn-iapetus.dds' successful 'saturn-iapetus.dds' on index 54 
+03-31-2012 20:29:47 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\uranus-miranda.dds' successful 'uranus-miranda.dds' on index 55 
+03-31-2012 20:29:48 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\dice.dds' successful 'dice.dds' on index 56 
+03-31-2012 20:29:48 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\baseball.dds' successful 'baseball.dds' on index 57 
+03-31-2012 20:29:48 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\football.dds' successful 'football.dds' on index 58 
+03-31-2012 20:29:48 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\bowlingball.dds' successful 'bowlingball.dds' on index 59 
+03-31-2012 20:29:48 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\poolball-cue.jpg' successful 'poolball-cue.jpg' on index 60 
+03-31-2012 20:29:48 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\tennisball.dds' successful 'tennisball.dds' on index 61 
+03-31-2012 20:29:48 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\golfball.dds' successful 'golfball.dds' on index 62 
+03-31-2012 20:29:48 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\galaxyclusterlayer.dds' successful 'galaxyclusterlayer.dds' on index 63 
+03-31-2012 20:29:48 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\forestmoon.dds' successful 'forestmoon.dds' on index 64 
+03-31-2012 20:29:48 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\white.dds' successful 'white.dds' on index 65 
+03-31-2012 20:29:50 | MINI MESH MANAGER : Minimesh created with 1501 items
+03-31-2012 20:29:50 | CTVMiniMesh::EnableMinimesh : Index Out Of Range  1501
+03-31-2012 20:29:50 | MINI MESH MANAGER : Minimesh created with 1410 items
+03-31-2012 20:29:50 | MESH MANAGER : Loading of mesh file 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\skydome.x' succeeded in 0 ms ( 528 faces, 334 vertices ) ID 39
+03-31-2012 20:29:51 | TEXTURE MANAGER : Format of alpha texture changed to 21.
+03-31-2012 20:29:51 | TEXTURE MANAGER : Format of non-alpha texture changed to 22.
+03-31-2012 20:38:05 | MINI MESH MANAGER : Minimesh created with 1501 items
+03-31-2012 20:38:05 | CTVMiniMesh::EnableMinimesh : Index Out Of Range  1501
+03-31-2012 20:38:05 | MINI MESH MANAGER : Minimesh created with 4027 items
+03-31-2012 20:38:05 | MINI MESH MANAGER : Minimesh created with 139 items
+03-31-2012 20:38:05 | MINI MESH MANAGER : Minimesh created with 42 items
+03-31-2012 20:38:05 | MINI MESH MANAGER : Minimesh created with 2 items
+03-31-2012 20:38:05 | MINI MESH MANAGER : Minimesh created with 4930 items
+03-31-2012 20:38:05 | MINI MESH MANAGER : Minimesh created with 21 items
+03-31-2012 20:38:05 | MINI MESH MANAGER : Minimesh created with 69 items
+03-31-2012 20:38:05 | MINI MESH MANAGER : Minimesh created with 174 items
+03-31-2012 20:38:05 | MINI MESH MANAGER : Minimesh created with 1 items
+03-31-2012 20:38:05 | MINI MESH MANAGER : Minimesh created with 4 items
+03-31-2012 20:38:05 | MINI MESH MANAGER : Minimesh created with 139 items
+03-31-2012 20:38:05 | MINI MESH MANAGER : Minimesh created with 243 items
+03-31-2012 20:38:05 | MINI MESH MANAGER : Minimesh created with 208 items
+03-31-2012 20:38:05 | MESH MANAGER : Loading of mesh file 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\skydome.x' succeeded in 0 ms ( 528 faces, 334 vertices ) ID 151
+03-31-2012 20:38:06 | TEXTURE MANAGER : Couldn't find the texture 'StarrySky' in the texture list.
+03-31-2012 20:38:06 | TEXTURE MANAGER : Couldn't find the texture 'StarrySky1' in the texture list.
+03-31-2012 20:38:06 | TEXTURE MANAGER : Couldn't find the texture 'StarrySky2' in the texture list.
+03-31-2012 20:38:06 | TEXTURE MANAGER : Format of alpha texture changed to DXT1.
+03-31-2012 20:38:06 | TEXTURE MANAGER : Format of non-alpha texture changed to DXT1.
+03-31-2012 20:38:06 | TEXTURE MANAGER : Couldn't find the texture 'StarrySky' in the texture list.
+03-31-2012 20:38:06 | TEXTURE MANAGER : Couldn't find the texture 'StarrySky1' in the texture list.
+03-31-2012 20:38:06 | TEXTURE MANAGER : Couldn't find the texture 'StarrySky2' in the texture list.
+03-31-2012 20:38:06 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\StarrySky-2048-1of2.dds' successful 'StarrySky1' on index 67 
+03-31-2012 20:38:06 | TEXTURE MANAGER : Couldn't find the texture 'StarrySky' in the texture list.
+03-31-2012 20:38:06 | TEXTURE MANAGER : Couldn't find the texture 'StarrySky2' in the texture list.
+03-31-2012 20:38:06 | TEXTURE MANAGER : Loading of 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\StarrySky-2048-2of2.dds' successful 'StarrySky2' on index 68 
+03-31-2012 20:38:06 | TEXTURE MANAGER : Couldn't find the texture 'StarrySky' in the texture list.
+03-31-2012 20:38:35 | MINI MESH MANAGER : Minimesh created with 1501 items
+03-31-2012 20:38:35 | CTVMiniMesh::EnableMinimesh : Index Out Of Range  1501
+03-31-2012 20:38:36 | MESH MANAGER : Loading of mesh file 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\skydome.x' succeeded in 0 ms ( 528 faces, 334 vertices ) ID 10
+03-31-2012 20:39:58 | MINI MESH MANAGER : Minimesh created with 1501 items
+03-31-2012 20:39:58 | CTVMiniMesh::EnableMinimesh : Index Out Of Range  1501
+03-31-2012 20:39:59 | MESH MANAGER : Loading of mesh file 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\skydome.x' succeeded in 0 ms ( 528 faces, 334 vertices ) ID 64
+03-31-2012 20:41:09 | MINI MESH MANAGER : Minimesh created with 165 items
+03-31-2012 20:41:09 | MINI MESH MANAGER : Minimesh created with 1 items
+03-31-2012 20:41:37 | MINI MESH MANAGER : Minimesh created with 165 items
+03-31-2012 20:41:37 | MINI MESH MANAGER : Minimesh created with 1 items
+03-31-2012 20:41:40 | MINI MESH MANAGER : Minimesh created with 165 items
+03-31-2012 20:41:40 | MINI MESH MANAGER : Minimesh created with 1 items
+03-31-2012 20:41:43 | MINI MESH MANAGER : Minimesh created with 165 items
+03-31-2012 20:41:43 | MINI MESH MANAGER : Minimesh created with 1 items
+03-31-2012 20:41:46 | MINI MESH MANAGER : Minimesh created with 165 items
+03-31-2012 20:41:46 | MINI MESH MANAGER : Minimesh created with 1 items
+03-31-2012 20:41:53 | MINI MESH MANAGER : Minimesh created with 165 items
+03-31-2012 20:41:53 | MINI MESH MANAGER : Minimesh created with 1 items
+03-31-2012 20:41:57 | MINI MESH MANAGER : Minimesh created with 1501 items
+03-31-2012 20:41:57 | CTVMiniMesh::EnableMinimesh : Index Out Of Range  1501
+03-31-2012 20:41:57 | MINI MESH MANAGER : Minimesh created with 4496 items
+03-31-2012 20:41:57 | MINI MESH MANAGER : Minimesh created with 5504 items
+03-31-2012 20:41:57 | MESH MANAGER : Loading of mesh file 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\skydome.x' succeeded in 15 ms ( 528 faces, 334 vertices ) ID 18
+03-31-2012 20:41:57 | TEXTURE MANAGER : Couldn't find the texture 'StarrySky' in the texture list.
+03-31-2012 20:44:36 | MINI MESH MANAGER : Minimesh created with 1501 items
+03-31-2012 20:44:36 | CTVMiniMesh::EnableMinimesh : Index Out Of Range  1501
+03-31-2012 20:44:37 | MESH MANAGER : Loading of mesh file 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\skydome.x' succeeded in 0 ms ( 528 faces, 334 vertices ) ID 71
+03-31-2012 20:48:15 | MINI MESH MANAGER : Minimesh created with 1501 items
+03-31-2012 20:48:15 | CTVMiniMesh::EnableMinimesh : Index Out Of Range  1501
+03-31-2012 20:48:15 | MINI MESH MANAGER : Minimesh created with 500 items
+03-31-2012 20:48:15 | MESH MANAGER : Loading of mesh file 'c:\program files (x86)\steam\steamapps\common\universe sandbox\media\skydome.x' succeeded in 15 ms ( 528 faces, 334 vertices ) ID 81
+03-31-2012 20:49:08 | START UNLOAD
+03-31-2012 20:49:09 | RESOURCE MANAGER : Engine successfully unloaded
